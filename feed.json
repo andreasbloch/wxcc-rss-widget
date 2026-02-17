@@ -1,12 +1,16 @@
 {
   "items": [
     {
-      "title": "Glyphosat-Rechtsstreit: Bayer schließt milliardenschweren Vergleich",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/bayer-monsanto-glyphosat-vergleich-100.html"
+      "title": "Ende deutscher Hilfe: Raus aus Kabuls Schutzhäusern - und dann?",
+      "link": "https://www.tagesschau.de/ausland/asien/afghanistan-schutzraeume-ende-unterstuetzung-100.html"
     },
     {
       "title": "Frankreich diskutiert über politische Gewalt nach Tod eines Rechtsextremisten",
       "link": "https://www.tagesschau.de/ausland/europa/frankreich-rechtsextremer-aktivist-gestorben-100.html"
+    },
+    {
+      "title": "Glyphosat-Rechtsstreit: Bayer schließt milliardenschweren Vergleich",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/bayer-monsanto-glyphosat-vergleich-100.html"
     },
     {
       "title": "Welche Auswirkung hat die Blockade von Starlink für Russland?",
@@ -75,10 +79,6 @@
     {
       "title": "Preise in Deutschland zu Jahresbeginn leicht gestiegen",
       "link": "https://www.tagesschau.de/wirtschaft/leben-in-deutschland-zuletzt-teurer-inflation-steigt-moderat-100.html"
-    },
-    {
-      "title": "Vor Atomgesprächen zwischen USA und Iran: Trump droht Iran mit Konsequenzen",
-      "link": "https://www.tagesschau.de/ausland/amerika/trump-iran-gespraeche-100.html"
     }
   ]
 }
