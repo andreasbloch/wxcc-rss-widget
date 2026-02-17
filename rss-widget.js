@@ -38,23 +38,26 @@
       }
     }
 
-    render(item = null) {
-      this.shadowRoot.innerHTML = `
-        <div style="padding: 20px; font-family: monospace; background: #1e1e1e; color: #adadad; border-radius: 8px;">
-          <h2 style="color: #00ff00; margin-top: 0;">🛠 Axians Debug Mode</h2>
-          <div style="background: #000; padding: 10px; border: 1px solid #333; margin-bottom: 20px; font-size: 12px;">
-            ${this.logs.map(log => `<div>${log}</div>`).join('')}
-          </div>
-          ${item ? `
-            <div style="background: white; color: black; padding: 15px; border-radius: 4px;">
-              <h3 style="margin: 0;">${item.title}</h3>
-              <p>${item.description.substring(0, 100)}...</p>
-            </div>
-          ` : '<div style="color: yellow;">Warte auf Daten...</div>'}
-        </div>
-      `;
-    }
-  }
+    render(items = []) {
+  const item = items[0]; // Wir zeigen die aktuellste Meldung
+  this.shadowRoot.innerHTML = `
+    <style>
+      :host { display: block; padding: 20px; font-family: 'Segoe UI', sans-serif; height: 100%; background: #f4f4f7; }
+      .axians-card { background: white; border-radius: 4px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); border-top: 4px solid #005a8b; padding: 20px; max-width: 500px; }
+      .category { color: #005a8b; font-size: 12px; font-weight: bold; text-transform: uppercase; margin-bottom: 8px; }
+      h2 { margin: 0 0 12px 0; font-size: 18px; color: #333; line-height: 1.3; }
+      p { color: #666; font-size: 14px; line-height: 1.5; margin-bottom: 20px; }
+      .btn { display: inline-block; background: #005a8b; color: white; text-decoration: none; padding: 10px 20px; border-radius: 2px; font-size: 14px; font-weight: 500; transition: background 0.2s; }
+      .btn:hover { background: #00466d; }
+    </style>
+    <div class="axians-card">
+      <div class="category">Axians News Feed</div>
+      <h2>${item.title}</h2>
+      <p>${item.description.replace(/<[^>]*>?/gm, '').substring(0, 150)}...</p>
+      <a href="${item.link}" target="_blank" class="btn">Vollständigen Artikel lesen</a>
+    </div>
+  `;
+}
 
 // Doppel-Registrierung für maximale Kompatibilität
 const widgetName = 'rss-widget';
