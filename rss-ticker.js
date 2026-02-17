@@ -105,7 +105,7 @@ class RssTicker extends HTMLElement {
       const html = items.map(i=>{
         const title = this.escape(i.title);
         const href  = this.escapeAttr(i.link || i.url || "#");
-        return `<span class="item">• <a href="${href}" target="_blank" rel="noopener noreferrer">${title}</a></span>`;
+        return `<span class="item"> • <a href="${href}" target="_blank" rel="noopener noreferrer">${title}</a></span>`;
       }).join(separator);
 
       track.innerHTML = html;
