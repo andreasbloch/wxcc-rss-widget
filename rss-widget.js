@@ -56,8 +56,17 @@
     }
   }
 
-  if (!customElements.get('rss-widget-item')) {
-    customElements.define('rss-widget-item', RssWidget);
-    console.log("RSS-Widget erfolgreich registriert als rss-widget-item");
+// Doppel-Registrierung für maximale Kompatibilität
+const widgetName = 'rss-widget';
+const widgetItemName = 'rss-widget-item';
+
+if (!customElements.get(widgetName)) {
+    customElements.define(widgetName, RssWidget);
+    console.log(`Widget registriert als: ${widgetName}`);
+}
+
+if (!customElements.get(widgetItemName)) {
+    customElements.define(widgetItemName, RssWidget);
+    console.log(`Widget registriert als: ${widgetItemName}`);
 }
 })();
