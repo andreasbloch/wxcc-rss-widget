@@ -1,7 +1,7 @@
 // Datei: rss-ticker.js
 class RssTicker extends HTMLElement {
   static get observedAttributes() {
-    return ["rss","speed","maxitems","separator","dark","debug","jsonproxy","rss2jsonparams"];
+    return ["rss","speed","maxitems","separator","dark","debug","jsonproxy","rss2jsonparams","sepgap"];
   }
 
   constructor() {
@@ -12,10 +12,12 @@ class RssTicker extends HTMLElement {
       jsonProxy: "",
       speed: 60,
       maxItems: 15,
-      separator: " • ",
+      // separator-Text wird nun nur noch als Zeichen verwendet (ohne Leerzeichen!)
+      separator: "•",
       dark: false,
       debug: false,
-      rss2jsonParams: ""
+      rss2jsonParams: "",
+      sepGap: 12 // px
     };
     this._renderQueued = false;
   }
@@ -29,55 +31,58 @@ class RssTicker extends HTMLElement {
     }
   }
 
-  // Lifecycle
   connectedCallback() {
-    ["rss","jsonProxy","speed","maxItems","separator","dark","debug","rss2jsonParams"]
+    ["rss","jsonProxy","speed","maxItems","separator","dark","debug","rss2jsonParams","sepGap"]
       .forEach(p => this._upgradeProperty(p));
     this._renderSoon();
   }
 
   attributeChangedCallback(name,_old,val){
-    const map={maxitems:"maxItems",jsonproxy:"jsonProxy",rss2jsonparams:"rss2jsonParams"};
+    const map={maxitems:"maxItems",jsonproxy:"jsonProxy",rss2jsonparams:"rss2jsonParams",sepgap:"sepGap"};
     const key=map[name]||name;
     switch(key){
       case "speed":    this.speed    = val; break;
       case "maxItems": this.maxItems = val; break;
       case "dark":     this.dark     = val; break;
       case "debug":    this.debug    = val; break;
+      case "sepGap":   this.sepGap   = val; break;
       default:         this[key]     = val;
     }
   }
 
-  // Property-Setter/Getter (werden vom Desktop als properties gesetzt)
+  // Properties (werden vom Desktop als properties gesetzt)
   get rss(){return this.state.rss;}                 set rss(v){this.state.rss=(v??""); this._renderSoon();}
   get jsonProxy(){return this.state.jsonProxy;}     set jsonProxy(v){this.state.jsonProxy=(v??""); this._renderSoon();}
   get speed(){return this.state.speed;}             set speed(v){this.state.speed=this._toNum(v,60); this._renderSoon();}
   get maxItems(){return this.state.maxItems;}       set maxItems(v){this.state.maxItems=this._toNum(v,15); this._renderSoon();}
-  get separator(){return this.state.separator;}     set separator(v){this.state.separator=(v??" • "); this._renderSoon();}
+  get separator(){return this.state.separator;}     set separator(v){this.state.separator=(v??"•"); this._renderSoon();}
   get dark(){return this.state.dark;}               set dark(v){this.state.dark=this._toBool(v); this._renderSoon();}
   get debug(){return this.state.debug;}             set debug(v){this.state.debug=this._toBool(v); this._renderSoon();}
   get rss2jsonParams(){return this.state.rss2jsonParams;}
   set rss2jsonParams(v){this.state.rss2jsonParams=(v??""); this._renderSoon();}
+  get sepGap(){return this.state.sepGap;}           set sepGap(v){this.state.sepGap=this._toNum(v,12); this._renderSoon();}
 
-  // Render Queue
+  // Render queue
   log(...a){ if(this.state.debug) console.log("[rss-ticker]",...a); }
   _renderSoon(){ if(this._renderQueued) return; this._renderQueued=true; queueMicrotask(()=>{ this._renderQueued=false; this.render(); }); }
 
   // Render
   async render(){
-    const { speed, maxItems, separator, dark } = this.state;
+    const { speed, maxItems, separator, dark, sepGap } = this.state;
 
     this.shadowRoot.innerHTML = `
       <style>
         :host {
-          /* mittig im Header */
           display: block;
-          margin: 0 auto;
+          margin: 0 auto;                 /* mittig im Header */
           height: 32px;
           width: min(50vw, 640px);
           max-width: 640px;
           min-width: 280px;
           font: 12px/32px system-ui, Segoe UI, Roboto, sans-serif;
+
+          /* Separator-Abstand über CSS-Variable steuerbar */
+          --sep-gap: ${sepGap}px;
         }
         .wrap {
           position: relative;
@@ -91,7 +96,8 @@ class RssTicker extends HTMLElement {
           border: 1px solid ${dark ? "#2a2d33" : "#dfe3e8"};
         }
         .track { position: absolute; white-space: nowrap; will-change: transform; animation: scroll linear infinite; }
-        .item  { margin-right: 16px; opacity: .95; }
+        .item  { display:inline-block; /* kein extra margin; Abstand macht .sep */ }
+        .sep   { display:inline-block; margin: 0 var(--sep-gap); opacity: .85; }
         .item a { color: inherit; text-decoration: none; }
         .item a:hover { text-decoration: underline; }
         @keyframes scroll { from { transform: translateX(10%) } to { transform: translateX(-110%) } }
@@ -108,12 +114,18 @@ class RssTicker extends HTMLElement {
       this.log("Items geladen:", items.length, this.state);
       if(!items.length){ track.textContent = "Keine Einträge im Feed."; return; }
 
-      // Wichtig: KEIN "• " im Eintrag selbst; nur der separator setzt den Bullet zwischen Items
-      const html = items.map(i=>{
+      // HTML: Items erzeugen und SEPARATOR-Elemente gleichmäßig dazwischen setzen
+      const itemHtml = items.map(i=>{
         const title = this.escape(i.title);
         const href  = this.escapeAttr(i.link || i.url || "#");
         return `<span class="item"><a href="${href}" target="_blank" rel="noopener noreferrer">${title}</a></span>`;
-      }).join(separator);
+      });
+
+      const sepHtml = `<span class="sep" aria-hidden="true">${this.escape(separator)}</span>`;
+      const html = itemHtml.reduce((acc, cur, idx) => {
+        if (idx === 0) return cur;          // kein Separator vor dem ersten Item
+        return acc + sepHtml + cur;         // identischer Abstand links & rechts vom Bullet
+      }, "");
 
       track.innerHTML = html;
 
@@ -129,8 +141,6 @@ class RssTicker extends HTMLElement {
   // Daten laden
   async loadItems(){
     const { jsonProxy, rss, maxItems, rss2jsonParams } = this.state;
-
-    // A) bevorzugt: vorkonvertierte JSON-Datei (GitHub Pages)
     if(jsonProxy){
       this.log("jsonProxy:", jsonProxy);
       const res = await fetch(jsonProxy, { cache: "no-store" });
@@ -139,8 +149,6 @@ class RssTicker extends HTMLElement {
       const items = this.pickItems(data);
       return items.slice(0,maxItems).map(x=>({ title:x.title, link:x.link || x.url || "#" }));
     }
-
-    // B) Fallback (nur Test): direkter rss2json-Call ohne Key im Client
     if(rss){
       const base = `https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(rss)}`;
       const url  = rss2jsonParams ? `${base}&${rss2jsonParams}` : base;
@@ -152,10 +160,10 @@ class RssTicker extends HTMLElement {
       const items = Array.isArray(data.items) ? data.items : [];
       return items.slice(0,maxItems).map(x=>({ title:x.title, link:x.link }));
     }
-
     return [];
   }
 
+  // Hilfsfunktionen
   pickItems(data){
     if (Array.isArray(data?.items))   return data.items;
     if (Array.isArray(data))          return data;
@@ -163,11 +171,7 @@ class RssTicker extends HTMLElement {
     if (Array.isArray(data?.entries)) return data.entries;
     return [];
   }
-
-  // Escapes
-  escape(s){
-    return String(s || "").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;","'":"&#39;"}[c]));
-  }
+  escape(s){ return String(s || "").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;","&gt;":"&gt;","\"":"&quot;","'":"&#39;"}[c])); }
   escapeAttr(s){ return String(s || "").replace(/"/g,"&quot;"); }
 }
 customElements.define("rss-ticker", RssTicker);
