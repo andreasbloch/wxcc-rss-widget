@@ -2,8 +2,8 @@ name: Fetch RSS and publish JSON
 
 on:
   schedule:
-    - cron: "*/30 * * * *"
-  workflow_dispatch:
+    - cron: "*/30 * * * *"   # alle 30 Minuten
+  workflow_dispatch:         # manueller Start möglich
 
 permissions:
   contents: write
@@ -26,37 +26,57 @@ jobs:
       - name: Fetch via rss2json
         env:
           RSS2JSON_API_KEY: ${{ secrets.RSS2JSONAPIKEY }}
-          RSS_URL: "https://www.tagesschau.de/xml/rss2"
+          RSS_URL: "https://www.tagesschau.de/xml/rss2"   # << ggf. ändern
           COUNT: "20"
+          ORDER_BY: "pubDate"                             # optional
+          ORDER_DIR: "desc"                               # optional
         run: |
-          node -e '
+          node --input-type=module -e '
           import fetch from "node-fetch";
-          const key   = process.env.RSS2JSON_API_KEY || "";
-          const rss   = encodeURIComponent(process.env.RSS_URL);
-          const count = process.env.COUNT || "20";
 
+          // 1) Umgebungsvariablen holen
+          const key   = process.env.RSS2JSON_API_KEY || "";
+          const rss   = process.env.RSS_URL;
+          const count = process.env.COUNT || "20";
+          const orderBy = process.env.ORDER_BY || "";
+          const orderDir = process.env.ORDER_DIR || "";
+
+          if (!rss) {
+            console.error("[error] RSS_URL fehlt");
+            process.exit(1);
+          }
+
+          // 2) URL korrekt aufbauen (NICHT vor-encoden! URLSearchParams übernimmt das)
           const params = new URLSearchParams({ rss_url: rss, count });
-          if (key) params.append("api_key", key);
+          if (key)     params.append("api_key", key);
+          if (orderBy) params.append("order_by", orderBy);
+          if (orderDir) params.append("order_dir", orderDir);
 
           const url = `https://api.rss2json.com/v1/api.json?${params.toString()}`;
           console.log("[fetch]", url.replace(/api_key=[^&]+/, "api_key=***"));
 
+          // 3) Request ausführen
           const res = await fetch(url);
-          if (!res.ok) throw new Error("rss2json HTTP " + res.status);
+          if (!res.ok) {
+            const text = await res.text().catch(()=> "");
+            console.error("[rss2json] HTTP", res.status, text.slice(0,200));
+            throw new Error("rss2json HTTP " + res.status);
+          }
 
+          // 4) JSON parsen und Items extrahieren
           const data = await res.json();
-          if (data.status !== "ok") throw new Error(data.message || "unknown");
+          if (data.status !== "ok") {
+            console.error("[rss2json] status:", data.status, "message:", data.message);
+            throw new Error(data.message || "rss2json Fehler");
+          }
 
-          const items = (data.items || []).map(x => ({ title: x.title, link: x.link }));
-          const out = { items };
-          await (await import("node:fs/promises")).writeFile("feed.json", JSON.stringify(out, null, 2));
+          const items = Array.isArray(data.items) ? data.items.map(x => ({ title: x.title, link: x.link })) : [];
+          console.log("[items]", items.length);
+
+          // 5) feed.json schreiben
+          const fs = await import("node:fs/promises");
+          await fs.writeFile("feed.json", JSON.stringify({ items }, null, 2));
           console.log("[write] feed.json ->", items.length, "items");
           '
 
       - name: Commit feed.json
-        run: |
-          git config user.name  github-actions
-          git config user.email github-actions@users.noreply.github.com
-          git add feed.json
-          git commit -m "update feed.json [skip ci]" || echo "no changes"
-          git push
