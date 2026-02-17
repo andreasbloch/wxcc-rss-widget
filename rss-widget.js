@@ -1,132 +1,85 @@
+// Wir laden Lit direkt von einem CDN, damit kein Build-Step nötig ist
 import { html, css, LitElement } from 'https://esm.sh';
-//import {html, css, LitElement} from 'lit';
 
 export class RSSWidget extends LitElement {
   static get styles() {
     return css`
-      .rss-widget {
-        display: inline-flex;
-        flex-direction: column;
+      :host {
+        display: flex;
         align-items: center;
-        justify-content: center;
-        min-width: 100px;
-        height: 60px;
-        overflow: hidden;
-        border: 1px solid #ccc;
-        background-color: var(--background-color, white);
-        color: var(--text-color, black);
-        --link-color: blue;
-        --link-color-dark: lightblue;
+        height: 40px; /* Passt besser in den WxCC Header */
+        background: transparent;
+        font-family: sans-serif;
       }
-      .title {
-        flex: 1;
-        margin: 0 10px;
+      .rss-container {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        padding: 0 15px;
+        color: var(--text-color, white);
+        font-size: 13px;
+      }
+      .title-link {
+        color: #ffcc00; /* Axians Gelb oder Gold als Akzent */
+        text-decoration: none;
+        white-space: nowrap;
+        max-width: 300px;
         overflow: hidden;
         text-overflow: ellipsis;
-        display: inline-block;
-        animation: scroll 10s linear infinite;
-      }
-      .title-container {
-        overflow: hidden;
-      }
-      .feed-title {
-        text-align: center;
-      }
-      .feed-items {
-        display: flex;
       }
       button {
-        margin: 0 5px;
-      }
-      @keyframes scroll {
-        0% { transform: translateX(100%); }
-        100% { transform: translateX(-100%); }
-      }
-
-      /* Dark mode styles */
-      .rss-widget.dark {
-        background-color: black;
+        cursor: pointer;
+        background: rgba(255,255,255,0.1);
+        border: none;
         color: white;
-        --link-color: var(--link-color-dark);
+        border-radius: 4px;
+        padding: 2px 8px;
       }
-
-      a {
-        color: var(--link-color);
-        text-decoration: none;
-      }
-
-      a:hover {
-        text-decoration: underline;
-      }
+      button:hover { background: rgba(255,255,255,0.2); }
     `;
   }
 
   static get properties() {
     return {
-      rss: { attribute: "rss", type: String},
-      currentItemIndex: { type: Number },
+      rss: { type: String },
       items: { type: Array },
-      dark: { attribute: "dark", type: Boolean }
-    }
-  };
+      currentIndex: { type: Number }
+    };
+  }
 
   constructor() {
     super();
-    this.dark = false;
-    this.rss = 'https://www.tagesschau.de/index~rss2.xml';
+    this.rss = 'https://www.tagesschau.de';
     this.items = [];
-    this.currentItemIndex = 0;
-    this.feed = {};
+    this.currentIndex = 0;
   }
 
-  // This method will be called whenever the rssFeed property changes.
-  async updated(changedProperties) {
-    if (changedProperties.has('rss')) {
-      const response = await fetch(`https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(this.rss)}`);
+  // Da wir keinen NPM Server haben, nutzen wir einen freien RSS-zu-JSON Wandler, 
+  // um CORS Probleme im Browser zu umgehen
+  async connectedCallback() {
+    super.connectedCallback();
+    try {
+      const response = await fetch(`https://api.rss2json.com{encodeURIComponent(this.rss)}`);
       const data = await response.json();
-      this.items = data.items;
-      this.feed = data.feed;
+      this.items = data.items || [];
+    } catch (e) {
+      console.error("RSS Feed Fehler:", e);
     }
   }
 
-  nextItem() {
-    this.currentItemIndex = (this.currentItemIndex + 1) % this.items.length;
-  }
-
-  previousItem() {
-    this.currentItemIndex = (this.currentItemIndex - 1 + this.items.length) % this.items.length;
-  }
-
   render() {
-    const currentItem = this.items[this.currentItemIndex] || {};
+    if (this.items.length === 0) return html`<div class="rss-container">Lade Feed...</div>`;
+    const item = this.items[this.currentIndex];
+
     return html`
-      <div class="rss-widget ${this.dark && "dark"}">
-        <div class="feed-title">${this.feed.title}: ${this.items.length} items</div>
-        <div class="feed-items">
-          <div>
-            <button 
-              @click="${this.previousItem}"
-              ?disabled="${this.currentItemIndex === 0}"
-            >
-              &lt;
-            </button>
-          </div>
-          <div>
-            <div class="title-container">
-              <a class="title" href="${currentItem.link}">${currentItem.title}</a>
-            </div>
-          </div>
-          <div>
-            <button 
-              @click="${this.nextItem}"
-              ?disabled="${this.currentItemIndex === this.items.length - 1}"
-            >
-              &gt;
-            </button>
-          </div>
-        </div>
+      <div class="rss-container">
+        <span>📢</span>
+        <button @click="${() => this.currentIndex = (this.currentIndex - 1 + this.items.length) % this.items.length}">&lt;</button>
+        <a class="title-link" href="${item.link}" target="_blank">${item.title}</a>
+        <button @click="${() => this.currentIndex = (this.currentIndex + 1) % this.items.length}">&gt;</button>
       </div>
     `;
   }
 }
+
 customElements.define('rss-widget', RSSWidget);
