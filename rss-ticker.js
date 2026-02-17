@@ -62,4 +62,3 @@ class RssTicker extends HTMLElement {
   escape(s){return String(s||"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;","'":"&#39;"}[c]));}
 }
 customElements.define("rss-ticker", RssTicker);
-``
