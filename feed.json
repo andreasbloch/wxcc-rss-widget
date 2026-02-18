@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "title": "Was eine Zuckersteuer wirklich bringen würde",
+      "link": "https://www.tagesschau.de/wissen/gesundheit/zuckersteuer-auswirkungen-adipositas-industrie-100.html"
+    },
+    {
+      "title": "Tritt Europas Zentralbankchefin Christine Lagarde vorzeitig ab?",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/ezb-praesidentin-lagarde-amt-100.html"
+    },
+    {
+      "title": "Frankreich diskutiert über politische Gewalt nach Tod eines Rechtsextremisten",
+      "link": "https://www.tagesschau.de/ausland/europa/frankreich-rechtsextremer-aktivist-gestorben-100.html"
+    },
+    {
+      "title": "Probleme bei Deutscher Bahn - Cyberangriff war Ursache",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/bahn-stoerung-it-cyberangriff-100.html"
+    },
+    {
       "title": "Mehr Baugenehmigungen: Gibt es Hoffnung für den Wohnungsbau?",
       "link": "https://www.tagesschau.de/wirtschaft/konjunktur/steigerung-baugenehmigungen-2025-100.html"
     },
@@ -11,10 +27,6 @@
     {
       "title": "Interview: \"Jetzt haben wir Gisèle Pelicots Perspektive und ihre Stimme\"",
       "link": "https://www.tagesschau.de/kultur/gisele-pelicot-buch-manon-garcia-100.html"
-    },
-    {
-      "title": "Probleme bei Deutscher Bahn - Cyberangriff war Ursache",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/bahn-stoerung-it-cyberangriff-100.html"
     },
     {
       "title": "Gesundheitsreform: Immer mehr ambulante Operationen geplant",
@@ -31,10 +43,6 @@
     {
       "title": "Marktbericht: Der DAX spielt \"Katz und Maus\"",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-aktien-boerse-dax-100.html"
-    },
-    {
-      "title": "Tritt Europas Zentralbankchefin Christine Lagarde vorzeitig ab?",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/ezb-praesidentin-lagarde-amt-100.html"
     },
     {
       "title": "Mönchengladbach: Frau gerät bei Karnevalsumzug unter Bus",
@@ -71,14 +79,6 @@
     {
       "title": "Warum Deutschlands Aufschwung 2026 kein Selbstläufer ist",
       "link": "https://www.tagesschau.de/wirtschaft/konjunktur/konjunktur-deutschland-aufschwung-2026-100.html"
-    },
-    {
-      "title": "Kraftstoffverbrauch bei Plug-In-Hybriden deutlich höher als angegeben",
-      "link": "https://www.tagesschau.de/investigativ/swr/plug-in-hybrid-verbrauch-100.html"
-    },
-    {
-      "title": "Ukraine-Gespräche in Genf: Erster Verhandlungstag beendet",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-gespraeche-genf-100.html"
     }
   ]
 }
