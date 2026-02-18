@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "title": "US-Militär verlegt etwa zwei Dutzend deutsche Islamisten in den Irak",
+      "link": "https://www.tagesschau.de/investigativ/ndr-wdr/deutsche-is-anhaenger-syrien-102.html"
+    },
+    {
+      "title": "Abschreckung: Merz schließt eigene Atomwaffen für Deutschland aus",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/merz-atomschirm-100.html"
+    },
+    {
+      "title": "Hintergrund: Wie realistisch ist ein europäischer Atomschirm?",
+      "link": "https://www.tagesschau.de/europaeischer-nuklearschirm-100.html"
+    },
+    {
+      "title": "Berlinale: Das Rennen um die Bären ist noch offen",
+      "link": "https://www.tagesschau.de/kultur/berlinale-zwischenbilanz-deutsche-filmbranche-100.html"
+    },
+    {
       "title": "Nach offenem Brief - Weimer verteidigt Berlinale gegen Kritik",
       "link": "https://www.tagesschau.de/kultur/berlinale-kritik-weimer-100.html"
     },
@@ -63,22 +79,6 @@
     {
       "title": "Gesundheitsreform: Immer mehr ambulante Operationen geplant",
       "link": "https://www.tagesschau.de/wissen/gesundheit/operationen-ambulant-gesundheitsreform-100.html"
-    },
-    {
-      "title": "Gespräche in Genf: Selenskyj zweifelt am Friedenswillen Russlands",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-krieg-verhandlungen-genf-100.html"
-    },
-    {
-      "title": "Iran bestellt nach Großdemonstration deutschen Botschafter ein",
-      "link": "https://www.tagesschau.de/ausland/asien/iran-botschafter-demonstration-100.html"
-    },
-    {
-      "title": "Marktbericht: Der DAX spielt \"Katz und Maus\"",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-aktien-boerse-dax-100.html"
-    },
-    {
-      "title": "Gipfel in Neu-Delhi: Wie Indien im Rennen um KI mitmischen will",
-      "link": "https://www.tagesschau.de/wirtschaft/ki-gipfel-indien-100.html"
     }
   ]
 }
