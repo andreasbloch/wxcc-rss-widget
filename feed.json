@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "title": "Interview zu Cyberangriff auf Bahn: \"Das ist Teil einer Kampagne\"",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/deutsche-bahn-cybersicherheit-100.html"
+    },
+    {
+      "title": "Fastenzeit und Ramadan: Wie der Verzicht zum Gewinn wird",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/fastenzeit-ramadan-muslime-christen-100.html"
+    },
+    {
+      "title": "Kommentar: Verhandlungen - für Russland Teil der Kriegsführung",
+      "link": "https://www.tagesschau.de/kommentar/ukraine-gespraeche-genf-104.html"
+    },
+    {
+      "title": "Spendenbereitschaft in Deutschland 2025 gesunken",
+      "link": "https://www.tagesschau.de/inland/spendenbereitschaft-sinkt-100.html"
+    },
+    {
+      "title": "Marktbericht: DAX mit Schwung über 25.000",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-aktien-boerse-dax-100.html"
+    },
+    {
       "title": "Anhaltende Probleme bei Deutscher Bahn - Cyberangriff ist Ursache",
       "link": "https://www.tagesschau.de/inland/gesellschaft/bahn-stoerung-it-cyberangriff-100.html"
     },
@@ -59,26 +79,6 @@
     {
       "title": "Mönchengladbach: Frau gerät bei Karnevalsumzug unter Bus",
       "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/moenchengladbach-unfall-karnevalswagen-100.html"
-    },
-    {
-      "title": "Was eine Zuckersteuer wirklich bringen würde",
-      "link": "https://www.tagesschau.de/wissen/gesundheit/zuckersteuer-auswirkungen-adipositas-industrie-100.html"
-    },
-    {
-      "title": "Tritt Europas Zentralbankchefin Christine Lagarde vorzeitig ab?",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/ezb-praesidentin-lagarde-amt-100.html"
-    },
-    {
-      "title": "Frankreich diskutiert über politische Gewalt nach Tod eines Rechtsextremisten",
-      "link": "https://www.tagesschau.de/ausland/europa/frankreich-rechtsextremer-aktivist-gestorben-100.html"
-    },
-    {
-      "title": "Mehr Baugenehmigungen: Gibt es Hoffnung für den Wohnungsbau?",
-      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/steigerung-baugenehmigungen-2025-100.html"
-    },
-    {
-      "title": "Mediziner werben vor CDU-Parteitag für Softdrink-Steuer",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/softdrink-steuer-cdu-100.html"
     }
   ]
 }
