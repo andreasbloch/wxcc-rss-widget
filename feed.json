@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "Warum Deutschlands Aufschwung 2026 kein Selbstläufer ist",
+      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/konjunktur-deutschland-aufschwung-2026-100.html"
+    },
+    {
+      "title": "Kraftstoffverbrauch bei Plug-In-Hybriden deutlich höher als angegeben",
+      "link": "https://www.tagesschau.de/investigativ/swr/plug-in-hybrid-verbrauch-100.html"
+    },
+    {
       "title": "Ukraine-Gespräche in Genf: Erster Verhandlungstag beendet",
       "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-gespraeche-genf-100.html"
     },
@@ -71,14 +79,6 @@
     {
       "title": "US-Bürgerrechtler Jesse Jackson im Alter von 84 Jahren gestorben",
       "link": "https://www.tagesschau.de/ausland/amerika/jesse-jackson-tot-100.html"
-    },
-    {
-      "title": "Beschwerde gegen Mietpreisbremse scheitert vor Bundesverfassungsgericht",
-      "link": "https://www.tagesschau.de/inland/mietpreisbremse-beschwerde-bundesverfassungsgericht-100.html"
-    },
-    {
-      "title": "EU-Kommission eröffnet Verfahren gegen Billig-Plattform Shein",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/shein-eu-kommission-100.html"
     }
   ]
 }
