@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "Trump eröffnet in Washington erste Sitzung des \"Friedensrats\"",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-trump-friedensrat-100.html"
+    },
+    {
+      "title": "Prozess um tote Bergsteigerin am Großglockner: Freund weist Vorwürfe zurück",
+      "link": "https://www.tagesschau.de/ausland/europa/oesterreich-grossglockner-prozess-102.html"
+    },
+    {
       "title": "Was von der ersten Sitzung des \"Friedensrats\" zu erwarten ist",
       "link": "https://www.tagesschau.de/ausland/asien/friedensrat-erwartungen-100.html"
     },
@@ -71,14 +79,6 @@
     {
       "title": "Lebenslange Haft für Südkoreas Ex-Präsident Yoon wegen Ausrufung des Kriegsrechts",
       "link": "https://www.tagesschau.de/ausland/asien/yoon-urteil-suedkorea-100.html"
-    },
-    {
-      "title": "Nach Beschlagnahmung im Jahr 2019: Italien muss Entschädigung an Sea-Watch zahlen",
-      "link": "https://www.tagesschau.de/ausland/europa/seawatch-italien-urteil-100.html"
-    },
-    {
-      "title": "Kanzler Merz für Klarnamenpflicht im Internet",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/merz-klarnamen-internet-100.html"
     }
   ]
 }
