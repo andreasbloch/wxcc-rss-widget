@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "Vor CDU-Bundesparteitag: Was macht eine gute Parteispitze aus?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/studie-parteivorsitzende-eigenschaften-100.html"
+    },
+    {
+      "title": "Festnahme von Ex-Prinz Andrew setzt Königshaus weiter unter Druck",
+      "link": "https://www.tagesschau.de/ausland/europa/andrew-festnahme-102.html"
+    },
+    {
       "title": "Marktbericht: DAX fällt wieder zurück",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-aktien-dax-100.html"
     },
@@ -71,14 +79,6 @@
     {
       "title": "Chaos beim KI-Gipfel in Indien - Bill Gates sagt Auftritt ab",
       "link": "https://www.tagesschau.de/ausland/asien/chaos-ki-gipfel-indien-100.html"
-    },
-    {
-      "title": "Festnahme von Ex-Prinz Andrew: \"Es geht um die Legitimation des Palastes\"",
-      "link": "https://www.tagesschau.de/ausland/europa/proessl-schalte-andrew-festnahme-100.html"
-    },
-    {
-      "title": "Jeder Fünfte offen für autoritäre Ideen",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/deutschland-monitor-100.html"
     }
   ]
 }
