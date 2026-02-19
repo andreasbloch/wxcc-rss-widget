@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "Österreich: Prozess um tödliches Bergdrama am Großglockner beginnt",
+      "link": "https://www.tagesschau.de/ausland/oesterreich-grossglockner-prozess-100.html"
+    },
+    {
+      "title": "Zukunft von Gaza: Wo Trumps Vision auf die Realität trifft",
+      "link": "https://www.tagesschau.de/ausland/asien/gaza-trump-visionen-realitaet-100.html"
+    },
+    {
       "title": "Im Iran verzichten einige Muslime aus Protest auf das Fasten an Ramadan",
       "link": "https://www.tagesschau.de/ausland/asien/iran-ramadan-102.html"
     },
@@ -71,14 +79,6 @@
     {
       "title": "Berlinale: Das Rennen um die Bären ist noch offen",
       "link": "https://www.tagesschau.de/kultur/berlinale-zwischenbilanz-deutsche-filmbranche-100.html"
-    },
-    {
-      "title": "Merz stellt Kampfjet-Projekt FCAS grundsätzlich infrage",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/friedrich-merz-stellt-kampfjet-projekt-fcas-infrage-100.html"
-    },
-    {
-      "title": "Politischer Aschermittwoch: Deftige Worte in zünftiger Atmosphäre",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/politischer-aschermittwoch-140.html"
     }
   ]
 }
