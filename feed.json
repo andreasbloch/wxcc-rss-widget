@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "Wirtschaftsflaute: Mit Automatisierung und Innovation gegen die Krise",
+      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/dihk-konjunktur-100.html"
+    },
+    {
+      "title": "Umweltverbände klagen gegen Trump-Entscheidung zu Treibhausgasen",
+      "link": "https://www.tagesschau.de/ausland/amerika/epa-klage-usa-umweltschutz-100.html"
+    },
+    {
       "title": "Österreich: Prozess um tödliches Bergdrama am Großglockner beginnt",
       "link": "https://www.tagesschau.de/ausland/oesterreich-grossglockner-prozess-100.html"
     },
@@ -71,14 +79,6 @@
     {
       "title": "Abschreckung: Merz schließt eigene Atomwaffen für Deutschland aus",
       "link": "https://www.tagesschau.de/inland/innenpolitik/merz-atomschirm-100.html"
-    },
-    {
-      "title": "Hintergrund: Wie realistisch ist ein europäischer Atomschirm?",
-      "link": "https://www.tagesschau.de/europaeischer-nuklearschirm-100.html"
-    },
-    {
-      "title": "Berlinale: Das Rennen um die Bären ist noch offen",
-      "link": "https://www.tagesschau.de/kultur/berlinale-zwischenbilanz-deutsche-filmbranche-100.html"
     }
   ]
 }
