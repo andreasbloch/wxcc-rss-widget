@@ -1,7 +1,15 @@
 {
   "items": [
     {
-      "title": "Jeder Fünfte hat offen für autoritäre Ideen",
+      "title": "Chaos beim KI-Gipfel in Indien - Bill Gates sagt Auftritt ab",
+      "link": "https://www.tagesschau.de/ausland/asien/chaos-ki-gipfel-indien-100.html"
+    },
+    {
+      "title": "Festnahme von Ex-Prinz Andrew: \"Es geht um die Legitimation des Palastes\"",
+      "link": "https://www.tagesschau.de/ausland/europa/proessl-schalte-andrew-festnahme-100.html"
+    },
+    {
+      "title": "Jeder Fünfte offen für autoritäre Ideen",
       "link": "https://www.tagesschau.de/inland/gesellschaft/deutschland-monitor-100.html"
     },
     {
@@ -71,14 +79,6 @@
     {
       "title": "Zuckerberg sagt in Prozess um Social-Media-Suchtpotenzial aus",
       "link": "https://www.tagesschau.de/ausland/amerika/zuckerberg-prozess-100.html"
-    },
-    {
-      "title": "Acht Tote bei Lawinenabgang in Kalifornien",
-      "link": "https://www.tagesschau.de/ausland/amerika/lawine-kalifornien-100.html"
-    },
-    {
-      "title": "Politischer Aschermittwoch: Schlagabtausch im Schatten der Landtagswahlen",
-      "link": "https://www.tagesschau.de/inland/politischer-aschermittwoch-142.html"
     }
   ]
 }
