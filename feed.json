@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "So lief die erste Sitzung des \"Friedensrates\"",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-trump-friedensrat-102.html"
+    },
+    {
       "title": "\"Grey's Anatomy\"-Schauspieler Eric Dane ist tot",
       "link": "https://www.tagesschau.de/kultur/eric-dane-gestorben-100.html"
     },
@@ -9,7 +13,7 @@
       "link": "https://www.tagesschau.de/inland/innenpolitik/cdu-parteitag-merz-112.html"
     },
     {
-      "title": "Frau am Großglockner erfroren: Freund zu fünf Jahren auf Bewährung verurteilt",
+      "title": "Frau am Großglockner erfroren: Freund zu fünf Monaten auf Bewährung verurteilt",
       "link": "https://www.tagesschau.de/ausland/europa/oesterreich-grossglockner-prozess-urteil-100.html"
     },
     {
@@ -30,7 +34,7 @@
     },
     {
       "title": "US-Handelsdefizit sinkt trotz hoher Zölle nur leicht",
-      "link": "https://www.tagesschau.de/ausland/amerika/zoelle-handelsdefizit-kaum-gesunken-100.html"
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/zoelle-handelsdefizit-kaum-gesunken-100.html"
     },
     {
       "title": "Deutsche Welle stellt griechischsprachiges Programm ein",
@@ -75,10 +79,6 @@
     {
       "title": "Cyberangriff auf die Bahn: BSI geht nicht von weiteren Auswirkungen aus",
       "link": "https://www.tagesschau.de/inland/gesellschaft/bahn-cyberangriff-bsi-100.html"
-    },
-    {
-      "title": "Sechs Jahre nach Anschlag: Gedenken an Opfer in Hanau",
-      "link": "https://www.tagesschau.de/inland/regional/hessen/gedenken-anschlag-hanau-102.html"
     }
   ]
 }
