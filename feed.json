@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "title": "Merz beim CDU-Parteitag: Reformversprechen und ein Hauch Selbstkritik",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/cdu-parteitag-merz-114.html"
+    },
+    {
+      "title": "Marktbericht: Der KI-Goldrausch ebbt ab",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/usa-investoren-102.html"
+    },
+    {
+      "title": "Daniela Maier holt Olympia-Gold im Skicross",
+      "link": "https://www.tagesschau.de/sport/maier-gold-skicross-100.html"
+    },
+    {
       "title": "Naidoo und Verschwörungsmythen: Kehrtwende von der Kehrtwende",
       "link": "https://www.tagesschau.de/faktenfinder/naidoo-epstein-100.html"
     },
@@ -67,18 +79,6 @@
     {
       "title": "Festnahme von Ex-Prinz Andrew setzt Königshaus weiter unter Druck",
       "link": "https://www.tagesschau.de/ausland/europa/andrew-festnahme-102.html"
-    },
-    {
-      "title": "Trump eröffnet in Washington erste Sitzung des \"Friedensrats\"",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-trump-friedensrat-100.html"
-    },
-    {
-      "title": "US-Handelsdefizit sinkt trotz hoher Zölle nur leicht",
-      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/zoelle-handelsdefizit-kaum-gesunken-100.html"
-    },
-    {
-      "title": "Deutsche Welle stellt griechischsprachiges Programm ein",
-      "link": "https://www.tagesschau.de/ausland/europa/griechische-reaktion-dw-aus-100.html"
     }
   ]
 }
