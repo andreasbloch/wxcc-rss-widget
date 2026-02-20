@@ -1,20 +1,32 @@
 {
   "items": [
     {
-      "title": "Schwächer als erwartet: US-Wachstum verliert deutlich an Schwung",
-      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/us-bip-wirtschaft-entwicklung-100.html"
+      "title": "Wohnhaus am Fuß der Pyrenäen stammt von Antoni Gaudí",
+      "link": "https://www.tagesschau.de/ausland/europa/spanien-gaudi-haus-100.html"
+    },
+    {
+      "title": "Marktbericht: DAX steigt im Sog des US-Zollurteils",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-102.html"
+    },
+    {
+      "title": "Europäer erhöhen wegen Lage in Iran ihre Sicherheitsvorkehrungen",
+      "link": "https://www.tagesschau.de/ausland/europa/europa-sicherheitsvorkehrungen-iran-100.html"
+    },
+    {
+      "title": "Oberstes US-Gericht erklärt Zölle von Trump für unrechtmäßig",
+      "link": "https://www.tagesschau.de/ausland/amerika/us-gericht-zoelle-trump-102.html"
     },
     {
       "title": "ZDF beruft Korrespondentin nach Ausstrahlung von KI-Video in \"heute\" ab",
       "link": "https://www.tagesschau.de/inland/medien-zdf-heutejournal-100.html"
     },
     {
-      "title": "Goldrausch im südafrikanischen Gugulethu",
-      "link": "https://www.tagesschau.de/ausland/afrika/suedafrika-gugulethu-gold-100.html"
+      "title": "Schwächer als erwartet: US-Wachstum verliert deutlich an Schwung",
+      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/us-bip-wirtschaft-entwicklung-100.html"
     },
     {
-      "title": "Oberstes US-Gericht erklärt Zölle von Trump für unrechtmäßig",
-      "link": "https://www.tagesschau.de/ausland/amerika/us-gericht-zoelle-trump-102.html"
+      "title": "Goldrausch im südafrikanischen Gugulethu",
+      "link": "https://www.tagesschau.de/ausland/afrika/suedafrika-gugulethu-gold-100.html"
     },
     {
       "title": "Polen will seine Ostgrenze künftig mit Landminen schützen",
@@ -67,18 +79,6 @@
     {
       "title": "\"Grey's Anatomy\"-Schauspieler Eric Dane ist tot",
       "link": "https://www.tagesschau.de/kultur/eric-dane-gestorben-100.html"
-    },
-    {
-      "title": "Suche im Weltall: Phosphor und Stickstoff sind Schlüssel für Leben",
-      "link": "https://www.tagesschau.de/wissen/forschung/ausserirdisches-leben-102.html"
-    },
-    {
-      "title": "Amazon jetzt umsatzstärkstes Unternehmen der Welt",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/amazon-umsatz-staerkstes-unternehmen-100.html"
-    },
-    {
-      "title": "Grüne bieten Merz in Positionspapier Hilfe bei Sozialreformen an",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/sozialreformen-angebot-gruene-100.html"
     }
   ]
 }
