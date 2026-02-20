@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "Marktbericht: DAX-Anleger bleiben vorsichtig",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-102.html"
+    },
+    {
+      "title": "Wie Frost Straßen- und Schienenarbeiten verzögert",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/winter-bahn-baustellen-100.html"
+    },
+    {
       "title": "Warum der Gasnotstand in Deutschland nicht kurz bevorsteht",
       "link": "https://www.tagesschau.de/faktenfinder/gasspeicher-notstand-100.html"
     },
@@ -71,14 +79,6 @@
     {
       "title": "Kommentar: Festnahme von Ex-Prinz Andrew ist zu wenig und kommt zu spät",
       "link": "https://www.tagesschau.de/kommentar/andrew-festnahme-100.html"
-    },
-    {
-      "title": "Sternenhimmel im Februar: Venus trifft auf Merkur und Saturn",
-      "link": "https://www.tagesschau.de/wissen/forschung/astronomie-februar-100.html"
-    },
-    {
-      "title": "Wer als Nachfolger von EZB-Chefin Lagarde infrage kommt",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/ezb-546.html"
     }
   ]
 }
