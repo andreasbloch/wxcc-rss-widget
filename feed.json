@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "Merz mit 91,2 Prozent als CDU-Chef wiedergewählt",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/merz-cdu-parteitag-108.html"
+    },
+    {
+      "title": "Oberstes US-Gericht erklärt Zölle von Trump für unrechtmäßig",
+      "link": "https://www.tagesschau.de/ausland/amerika/us-gericht-zoelle-trump-102.html"
+    },
+    {
       "title": "Wohnhaus am Fuß der Pyrenäen stammt von Antoni Gaudí",
       "link": "https://www.tagesschau.de/ausland/europa/spanien-gaudi-haus-100.html"
     },
@@ -11,10 +19,6 @@
     {
       "title": "Europäer erhöhen wegen Lage in Iran ihre Sicherheitsvorkehrungen",
       "link": "https://www.tagesschau.de/ausland/europa/europa-sicherheitsvorkehrungen-iran-100.html"
-    },
-    {
-      "title": "Oberstes US-Gericht erklärt Zölle von Trump für unrechtmäßig",
-      "link": "https://www.tagesschau.de/ausland/amerika/us-gericht-zoelle-trump-102.html"
     },
     {
       "title": "ZDF beruft Korrespondentin nach Ausstrahlung von KI-Video in \"heute\" ab",
@@ -75,10 +79,6 @@
     {
       "title": "Naidoo und Verschwörungsmythen: Kehrtwende von der Kehrtwende",
       "link": "https://www.tagesschau.de/faktenfinder/naidoo-epstein-100.html"
-    },
-    {
-      "title": "\"Grey's Anatomy\"-Schauspieler Eric Dane ist tot",
-      "link": "https://www.tagesschau.de/kultur/eric-dane-gestorben-100.html"
     }
   ]
 }
