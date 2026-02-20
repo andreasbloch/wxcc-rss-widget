@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "Einschätzung zu Trumps Reaktion auf Zoll-Urteil: \"Erpressungspotenzial fällt weg\"",
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/trump-zoelle-schalte-klein-feld-100.html"
+    },
+    {
+      "title": "Merz beim CDU-Parteitag: Keine Funken entfacht - aber trotzdem gewählt",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/cdu-parteitag-wiederwahl-merz-100.html"
+    },
+    {
       "title": "Merz mit 91,2 Prozent als CDU-Chef wiedergewählt",
       "link": "https://www.tagesschau.de/inland/innenpolitik/merz-cdu-parteitag-108.html"
     },
@@ -71,14 +79,6 @@
     {
       "title": "Marktbericht: Der KI-Goldrausch ebbt ab",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/usa-investoren-102.html"
-    },
-    {
-      "title": "Daniela Maier holt Olympia-Gold im Skicross",
-      "link": "https://www.tagesschau.de/sport/maier-gold-skicross-100.html"
-    },
-    {
-      "title": "Naidoo und Verschwörungsmythen: Kehrtwende von der Kehrtwende",
-      "link": "https://www.tagesschau.de/faktenfinder/naidoo-epstein-100.html"
     }
   ]
 }
