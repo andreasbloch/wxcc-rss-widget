@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "\"Grey's Anatomy\"-Schauspieler Eric Dane ist tot",
+      "link": "https://www.tagesschau.de/kultur/eric-dane-gestorben-100.html"
+    },
+    {
+      "title": "Suche im Weltall: Phosphor und Stickstoff sind Schlüssel für Leben",
+      "link": "https://www.tagesschau.de/wissen/forschung/ausserirdisches-leben-102.html"
+    },
+    {
       "title": "Amazon jetzt umsatzstärkstes Unternehmen der Welt",
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/amazon-umsatz-staerkstes-unternehmen-100.html"
     },
@@ -37,10 +45,6 @@
       "link": "https://www.tagesschau.de/ausland/amerika/usa-trump-friedensrat-102.html"
     },
     {
-      "title": "\"Grey's Anatomy\"-Schauspieler Eric Dane ist tot",
-      "link": "https://www.tagesschau.de/kultur/eric-dane-gestorben-100.html"
-    },
-    {
       "title": "Warum in der CDU angespannte Stimmung herrscht",
       "link": "https://www.tagesschau.de/inland/innenpolitik/cdu-parteitag-merz-112.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Vor CDU-Bundesparteitag: Was macht eine gute Parteispitze aus?",
       "link": "https://www.tagesschau.de/inland/innenpolitik/studie-parteivorsitzende-eigenschaften-100.html"
-    },
-    {
-      "title": "Marktbericht: DAX fällt wieder zurück",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-aktien-dax-100.html"
     }
   ]
 }
