@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "\"Grey's Anatomy\"-Schauspieler Eric Dane ist tot",
+      "link": "https://www.tagesschau.de/kultur/eric-dane-gestorben-100.html"
+    },
+    {
       "title": "Warum in der CDU angespannte Stimmung herrscht",
       "link": "https://www.tagesschau.de/inland/innenpolitik/cdu-parteitag-merz-112.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Sechs Jahre nach Anschlag: Gedenken an Opfer in Hanau",
       "link": "https://www.tagesschau.de/inland/regional/hessen/gedenken-anschlag-hanau-102.html"
-    },
-    {
-      "title": "Nahrungsmittelindustrie: Der weltweite Konsum wächst",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/nestle-nahrungsmittelindustrie-100.html"
     }
   ]
 }
