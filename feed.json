@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Warum in der CDU angespannte Stimmung herrscht",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/cdu-parteitag-merz-112.html"
+    },
+    {
       "title": "Frau am Großglockner erfroren: Freund zu fünf Jahren auf Bewährung verurteilt",
       "link": "https://www.tagesschau.de/ausland/europa/oesterreich-grossglockner-prozess-urteil-100.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Nahrungsmittelindustrie: Der weltweite Konsum wächst",
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/nestle-nahrungsmittelindustrie-100.html"
-    },
-    {
-      "title": "Jahresbilanz: Airbus über den Erwartungen - klagt über Lieferprobleme",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/airbus-bilanz-lieferkette-100.html"
     }
   ]
 }
