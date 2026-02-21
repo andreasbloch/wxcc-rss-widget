@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "So reagieren Wirtschaft und Politik auf das Zoll-Urteil",
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/reaktionen-supreme-court-zoelle-100.html"
+    },
+    {
+      "title": "Starker Schneefall in Österreich: Tote nach Lawinenabgängen in Tirol",
+      "link": "https://www.tagesschau.de/ausland/lawinen-tote-oesterreich-100.html"
+    },
+    {
       "title": "Britische Regierung erwägt, Andrew aus Thronfolge zu streichen",
       "link": "https://www.tagesschau.de/ausland/europa/andrew-thronfolge-gesetz-100.html"
     },
@@ -61,10 +69,6 @@
       "link": "https://www.tagesschau.de/ausland/amerika/supreme-court-kippt-zoelle-100.html"
     },
     {
-      "title": "Starker Schneefall in Österreich: Tote nach Lawinenabgängen in Tirol",
-      "link": "https://www.tagesschau.de/ausland/lawinen-tote-oesterreich-100.html"
-    },
-    {
       "title": "Nach Zoll-Urteil: Die Unsicherheit in der EU bleibt",
       "link": "https://www.tagesschau.de/ausland/amerika/urteil-zoelle-reaktionen-100.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Merz beim CDU-Parteitag: Keine Funken entfacht - aber trotzdem gewählt",
       "link": "https://www.tagesschau.de/inland/innenpolitik/cdu-parteitag-wiederwahl-merz-100.html"
-    },
-    {
-      "title": "Merz mit 91,2 Prozent als CDU-Chef wiedergewählt",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/merz-cdu-parteitag-108.html"
     }
   ]
 }
