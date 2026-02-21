@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "title": "Nordsee: Erneut Pottwale in Dänemark gestrandet",
+      "link": "https://www.tagesschau.de/ausland/europa/daenemark-wal-100.html"
+    },
+    {
+      "title": "Infrastruktur: Winter setzt Straßen in Deutschland stark zu",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/strassenschaeden-winter-infrastruktur-100.html"
+    },
+    {
+      "title": "CDU-Beschlüsse zu Social-Media-Verbot, Teilzeit und Elterngeld",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/cdu-parteitag-284.html"
+    },
+    {
       "title": "CDU-Parteitag: Spahn verteidigt Merz-Regierung gegen Kritik",
       "link": "https://www.tagesschau.de/inland/innenpolitik/cdu-parteitag-286.html"
     },
@@ -67,18 +79,6 @@
     {
       "title": "Was die Supreme-Court-Entscheidung bedeutet",
       "link": "https://www.tagesschau.de/ausland/amerika/supreme-court-kippt-zoelle-100.html"
-    },
-    {
-      "title": "Nach Zoll-Urteil: Die Unsicherheit in der EU bleibt",
-      "link": "https://www.tagesschau.de/ausland/amerika/urteil-zoelle-reaktionen-100.html"
-    },
-    {
-      "title": "Einschätzung zu Trumps Reaktion auf Zoll-Urteil: \"Erpressungspotenzial fällt weg\"",
-      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/trump-zoelle-schalte-klein-feld-100.html"
-    },
-    {
-      "title": "Merz beim CDU-Parteitag: Keine Funken entfacht - aber trotzdem gewählt",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/cdu-parteitag-wiederwahl-merz-100.html"
     }
   ]
 }
