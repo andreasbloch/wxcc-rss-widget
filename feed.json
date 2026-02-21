@@ -1,8 +1,12 @@
 {
   "items": [
     {
-      "title": "Hunderte Teilnehmer bei Trauermarsch für getöteten Rechtsextremen in Lyon",
+      "title": "Tausende Teilnehmer bei Trauermarsch für getöteten Rechtsextremen in Lyon",
       "link": "https://www.tagesschau.de/ausland/europa/proteste-lyon-macron-100.html"
+    },
+    {
+      "title": "15 statt 10 Prozent: US-Präsident Trump will weltweite Zölle anheben",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-us-zollerhoehung-100.html"
     },
     {
       "title": "Spenderherz falsch gekühlt: Kleinkind in Italien gestorben",
@@ -75,10 +79,6 @@
     {
       "title": "USA greifen erneut Boot im Pazifik an - drei Tote",
       "link": "https://www.tagesschau.de/ausland/amerika/boot-pazifik-abschuss-100.html"
-    },
-    {
-      "title": "Trump beharrt auf seiner Zollpolitik - trotz Zoll-Urteil",
-      "link": "https://www.tagesschau.de/ausland/amerika/zoelle-urtei-supreme-court-100.html"
     }
   ]
 }
