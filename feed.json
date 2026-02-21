@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "Frankreich: Dünen-Schutz mit Weihnachtsbäumen",
+      "link": "https://www.tagesschau.de/ausland/europa/weihnachtsbaeume-frankreich-meer-duenen-100.html"
+    },
+    {
+      "title": "Nach Zoll-Urteil: Die Unsicherheit in der EU bleibt",
+      "link": "https://www.tagesschau.de/ausland/amerika/urteil-zoelle-reaktionen-100.html"
+    },
+    {
       "title": "Merz hofft auf positive Effekte des US-Zoll-Urteils",
       "link": "https://www.tagesschau.de/inland/innenpolitik/interview-merz-102.html"
     },
@@ -71,14 +79,6 @@
     {
       "title": "Studie: Wenn KI nicht weniger, sondern mehr Arbeit macht",
       "link": "https://www.tagesschau.de/wissen/forschung/ki-arbeitsintensitaet-folgen-100.html"
-    },
-    {
-      "title": "Jobverlust durch KI? Shumers Warnung und was Studien dazu sagen",
-      "link": "https://www.tagesschau.de/wirtschaft/technologie/jobverlust-ki-shumer-warnung-arbeitsmarkt-100.html"
-    },
-    {
-      "title": "Tote bei israelischen Angriffen auf Hisbollah-Ziele",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-angriffe-libanon-tote-102.html"
     }
   ]
 }
