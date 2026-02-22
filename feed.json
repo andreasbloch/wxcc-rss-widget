@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "Vorfall in der Nordsee: Gestrandete Pottwale vor dänischer Insel sind tot",
+      "link": "https://www.tagesschau.de/ausland/europa/daenemark-pottwale-gestrandet-100.html"
+    },
+    {
+      "title": "Secret Service erschießt Eindringling bei Trumps Privatanwesen",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-eindringling-100.html"
+    },
+    {
       "title": "Warum viele Rathäuser in Männerhand liegen",
       "link": "https://www.tagesschau.de/inland/gesellschaft/buergermeisterinnen-kommunalwahl-100.html"
     },
@@ -71,14 +79,6 @@
     {
       "title": "Neue OP-Technik für Knieprothesen",
       "link": "https://www.tagesschau.de/wissen/gesundheit/neue-op-technik-knieprothesen-100.html"
-    },
-    {
-      "title": "Boom bei Gebrauchtem: Wie Second-Hand zum Milliardenmarkt wurde",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/second-hand-markt-boom-100.html"
-    },
-    {
-      "title": "Erneut Tote nach Lawinenabgängen in Österreich",
-      "link": "https://www.tagesschau.de/ausland/europa/lawinen-tote-oesterreich-102.html"
     }
   ]
 }
