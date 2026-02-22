@@ -1,7 +1,11 @@
 {
   "items": [
     {
-      "title": "Empörung nach Antisemitismus-Eklat bei der Berlinale",
+      "title": "Bericht aus Berlin: Regierung will Eckpunkte für Heizungsgesetz vorlegen",
+      "link": "https://www.tagesschau.de/inland/spahn-miersch-bab-100.html"
+    },
+    {
+      "title": "Empörung nach Hass-Rede gegen Israel bei der Berlinale",
       "link": "https://www.tagesschau.de/inland/regional/berlin/antisemitismus-berlinale-102.html"
     },
     {
@@ -75,10 +79,6 @@
     {
       "title": "Trump will Lazarettschiff nach Grönland schicken",
       "link": "https://www.tagesschau.de/ausland/amerika/usa-lazarettschiff-groenland-100.html"
-    },
-    {
-      "title": "Ist das Eigenheim der größte finanzielle Fehler?",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/eigenheim-altersvorsorge-finanzieller-fehler-100.html"
     }
   ]
 }
