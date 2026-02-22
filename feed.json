@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Bus prallt gegen Baum - zwölf Menschen verletzt",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/busunfall-berlin-100.html"
+    },
+    {
       "title": "Vorfall in der Nordsee: Gestrandete Pottwale vor dänischer Insel sind tot",
       "link": "https://www.tagesschau.de/ausland/europa/daenemark-pottwale-gestrandet-100.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Explosionen in westukrainischer Stadt Lwiw - Terrorvorwurf",
       "link": "https://www.tagesschau.de/ausland/europa/ukraine-explosionen-lwiw-100.html"
-    },
-    {
-      "title": "Neue OP-Technik für Knieprothesen",
-      "link": "https://www.tagesschau.de/wissen/gesundheit/neue-op-technik-knieprothesen-100.html"
     }
   ]
 }
