@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Warum viele Rathäuser in Männerhand liegen",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/buergermeisterinnen-kommunalwahl-100.html"
+    },
+    {
       "title": "Kirchen in Deutschland starten mit Gottesdiensten ihre Fastenaktionen",
       "link": "https://www.tagesschau.de/inland/gesellschaft/fastenaktionen-kirchen-100.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Erneut Tote nach Lawinenabgängen in Österreich",
       "link": "https://www.tagesschau.de/ausland/europa/lawinen-tote-oesterreich-102.html"
-    },
-    {
-      "title": "Trumps neue Zölle stehen auf wackeligen Füßen",
-      "link": "https://www.tagesschau.de/ausland/amerika/trump-zoelle-176.html"
     }
   ]
 }
