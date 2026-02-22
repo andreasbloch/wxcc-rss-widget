@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "title": "Gebeine des Heiligen Franz von Assisi werden öffentlich ausgestellt",
+      "link": "https://www.tagesschau.de/ausland/europa/italien-gebeine-franziskus-100.html"
+    },
+    {
+      "title": "Wegen US-Politik: Kanadas schwierige Suche nach neuen Märkten",
+      "link": "https://www.tagesschau.de/ausland/amerika/kanada-usa-110.html"
+    },
+    {
+      "title": "Mailand und Cortina: Was bleibt von den Winterspielen 2026?",
+      "link": "https://www.tagesschau.de/ausland/europa/italien-olympische-winterspiele-mailand-cortina-bilanz-100.html"
+    },
+    {
       "title": "Bericht über Pläne des Innenministeriums: Asylbewerber sollen schneller arbeiten dürfen",
       "link": "https://www.tagesschau.de/inland/innenpolitik/dobrindt-asylbewerber-arbeit-100.html"
     },
@@ -67,18 +79,6 @@
     {
       "title": "Analyse zum CDU-Parteitag: Stuttgart hat Merz stabilisiert",
       "link": "https://www.tagesschau.de/inland/analyse-cdu-parteitag-100.html"
-    },
-    {
-      "title": "Berlinale: Deutscher Film \"Gelbe Briefe\" gewinnt Goldenen Bären",
-      "link": "https://www.tagesschau.de/kultur/goldener-baer-berlinale-102.html"
-    },
-    {
-      "title": "Frankreich: Dünen-Schutz mit Weihnachtsbäumen",
-      "link": "https://www.tagesschau.de/ausland/europa/weihnachtsbaeume-frankreich-meer-duenen-100.html"
-    },
-    {
-      "title": "Merz hofft auf positive Effekte des US-Zoll-Urteils",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/interview-merz-102.html"
     }
   ]
 }
