@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "Kirchen in Deutschland starten mit Gottesdiensten ihre Fastenaktionen",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/fastenaktionen-kirchen-100.html"
+    },
+    {
+      "title": "SPD will Social-Media-Verbot für Kinder unter 14 Jahren schnell umsetzen",
+      "link": "https://www.tagesschau.de/inland/koalition-social-media-verbot-100.html"
+    },
+    {
       "title": "Olympia: Gold und Silber für Deutschland im Viererbob",
       "link": "https://www.tagesschau.de/sport/viererbob-gold-lochner-100.html"
     },
@@ -71,14 +79,6 @@
     {
       "title": "Trumps neue Zölle stehen auf wackeligen Füßen",
       "link": "https://www.tagesschau.de/ausland/amerika/trump-zoelle-176.html"
-    },
-    {
-      "title": "Wie steht es um die nächsten Olympischen Winterspiele?",
-      "link": "https://www.tagesschau.de/ausland/europa/olympia-stabuebergabe-frankreich-100.html"
-    },
-    {
-      "title": "Streit über Druschba-Pipeline: Ukraine wirft Ungarn und Slowakei Erpressung vor",
-      "link": "https://www.tagesschau.de/ausland/ukraine-druschba-ungarn-slowakei-100.html"
     }
   ]
 }
