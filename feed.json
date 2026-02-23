@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Regierung will Eckpunkte für Gebäudemodernisierungsgesetz vorlegen",
+      "link": "https://www.tagesschau.de/inland/spahn-miersch-bab-100.html"
+    },
+    {
       "title": "AfD Sachsen-Anhalt setzt Kommission zu Vetternwirtschafts-Vorwürfen ein",
       "link": "https://www.tagesschau.de/inland/regional/sachsenanhalt/mdr-afd-verzichtet-auf-sonderparteitag-und-setzt-kommission-ein-102.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "ifo-Geschäftsklima-Index steigt: \"Erste Signale einer Belebung\"",
       "link": "https://www.tagesschau.de/wirtschaft/konjunktur/ifo-stimmung-unternehmen-102.html"
-    },
-    {
-      "title": "US-Zölle: Maschinenbau-Exporte 2025 gesunken - Branchenverband warnt",
-      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/us-zoelle-maschinenbau-exporte-vdma-100.html"
     }
   ]
 }
