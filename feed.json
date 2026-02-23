@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "AfD Sachsen-Anhalt setzt Kommission zu Vetternwirtschafts-Vorwürfen ein",
+      "link": "https://www.tagesschau.de/inland/regional/sachsenanhalt/mdr-afd-verzichtet-auf-sonderparteitag-und-setzt-kommission-ein-102.html"
+    },
+    {
+      "title": "Slowakei stellt Stromlieferungen an Ukraine ein",
+      "link": "https://www.tagesschau.de/ausland/europa/slowakei-fico-notstrom-ukraine-100.html"
+    },
+    {
       "title": "Selenskyj im ARD-Gespräch: \"Bin bereit zu einem Treffen mit Putin\"",
       "link": "https://www.tagesschau.de/ausland/europa/ukraine-interview-selenskyj-102.html"
     },
@@ -71,14 +79,6 @@
     {
       "title": "US-Zölle: Maschinenbau-Exporte 2025 gesunken - Branchenverband warnt",
       "link": "https://www.tagesschau.de/wirtschaft/konjunktur/us-zoelle-maschinenbau-exporte-vdma-100.html"
-    },
-    {
-      "title": "Wie Deutschland bei wichtigen Rohstoffen unabhängiger werden kann",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/rohstoffe-mangel-problem-unternehmen-100.html"
-    },
-    {
-      "title": "Vereidigung von Rob Jetten: Neue Töne aus den Niederlanden",
-      "link": "https://www.tagesschau.de/ausland/europa/niederlande-minderheitsregierung-vereidigung-100.html"
     }
   ]
 }
