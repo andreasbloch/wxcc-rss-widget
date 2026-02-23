@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Marktbericht: Zoll-Unsicherheit belastet Aktienmarkt",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-zollstreit-geldanlage-100.html"
+    },
+    {
       "title": "Bischofskonferenz wählt neuen Vorsitzenden: Wer folgt auf Bätzing?",
       "link": "https://www.tagesschau.de/inland/gesellschaft/bischofskonferenz-reformkurs-vorsitz-100.html"
     },
@@ -21,7 +25,7 @@
       "link": "https://www.tagesschau.de/inland/spahn-miersch-bab-100.html"
     },
     {
-      "title": "US-Zollpolitik: EU lenkt in Richtung Konfrontationskurs",
+      "title": "US-Zollpolitik: Ist die EU mit ihrer Geduld am Ende?",
       "link": "https://www.tagesschau.de/ausland/europa/eu-usa-zoll-streit-100.html"
     },
     {
@@ -75,10 +79,6 @@
     {
       "title": "SPD will Social-Media-Verbot für Kinder unter 14 Jahren schnell umsetzen",
       "link": "https://www.tagesschau.de/inland/koalition-social-media-verbot-100.html"
-    },
-    {
-      "title": "Olympia: Gold und Silber für Deutschland im Viererbob",
-      "link": "https://www.tagesschau.de/sport/viererbob-gold-lochner-100.html"
     }
   ]
 }
