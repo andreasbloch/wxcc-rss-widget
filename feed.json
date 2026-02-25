@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Zahlreiche Tote und viele Vermisste nach heftigen Regenfällen in Brasilien",
+      "link": "https://www.tagesschau.de/ausland/amerika/brasilien-ueberschwemmungen-110.html"
+    },
+    {
       "title": "Großbritannien-Einreise nur noch mit elektronischer Einreiseerlaubnis",
       "link": "https://www.tagesschau.de/ausland/europa/eta-einreise-grossbritannien-100.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "BGH: Staaten können nicht gegen Berichterstattung klagen",
       "link": "https://www.tagesschau.de/inland/bgh-urteil-presseartikel-marokko-100.html"
-    },
-    {
-      "title": "Zu wenig Wohnraum - vergessene Seniorinnen und Senioren",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/altersgerechte-wohnungen-mangel-100.html"
     }
   ]
 }
