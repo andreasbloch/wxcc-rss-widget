@@ -1,16 +1,28 @@
 {
   "items": [
     {
+      "title": "Verkehrstote: 2025 sterben mehr Menschen im deutschen Straßenverkehr",
+      "link": "https://www.tagesschau.de/inland/unfaelle-verkehrstote-strassenverkehr-statistik-100.html"
+    },
+    {
+      "title": "Evakuierungen wegen Überschwemmungen auf indonesischer Insel Bali",
+      "link": "https://www.tagesschau.de/ausland/asien/indonesien-bali-ueberschwemmungen-100.html"
+    },
+    {
+      "title": "Trumps Rede zur Lage der Nation im Faktencheck",
+      "link": "https://www.tagesschau.de/faktenfinder/trump-rede-lage-der-nation-faktencheck-100.html"
+    },
+    {
+      "title": "Annullierte Bürgermeisterwahl in Brandenburg: Post schließt Fehler aus",
+      "link": "https://www.tagesschau.de/inland/regional/brandenburg/wahl-strausberg-deutsche-post-100.html"
+    },
+    {
       "title": "Gebäudemodernisierungsgesetz: Kritik von Opposition",
       "link": "https://www.tagesschau.de/inland/gmg-reaktionen-100.html"
     },
     {
       "title": "Marktbericht: DAX wieder über 25.000 Punkten",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-wall-street-trump-100.html"
-    },
-    {
-      "title": "Annullierte Bürgermeisterwahl in Brandenburg: Post schließt Fehler aus",
-      "link": "https://www.tagesschau.de/inland/regional/brandenburg/wahl-strausberg-deutsche-post-100.html"
     },
     {
       "title": "Statistisches Bundesamt: Haushaltslöcher waren 2025 größer als gedacht",
@@ -67,18 +79,6 @@
     {
       "title": "Nach Juwelendiebstahl: Louvre-Chefin tritt zurück",
       "link": "https://www.tagesschau.de/ausland/europa/louvre-chefin-ruecktritt-100.html"
-    },
-    {
-      "title": "Fall Epstein: Britisches Parlament will Dokumente zu Andrew freigeben",
-      "link": "https://www.tagesschau.de/ausland/europa/grossbritannien-aufarbeitung-epstein-affaere-100.html"
-    },
-    {
-      "title": "So will die Koalition die Regeln für Heizungen ändern",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/gebaeudemodernisierung-eckpunkte-heizungsgesetz-100.html"
-    },
-    {
-      "title": "Die wichtigsten Informationen zum ver.di-Warnstreik im ÖPNV",
-      "link": "https://www.tagesschau.de/wirtschaft/verdi-warnstreik-114.html"
     }
   ]
 }
