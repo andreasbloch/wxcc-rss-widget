@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "title": "Angriff auf Zugbegleiter - 100 Reisende müssen ICE verlassen",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/angriff-zugbegleiter-ice-100.html"
+    },
+    {
+      "title": "Wenn KI-Agenten Menschen brauchen",
+      "link": "https://www.tagesschau.de/wissen/technologie/ki-agenten-100.html"
+    },
+    {
+      "title": "Sanierung von Bellevue soll mindestens 601 Millionen kosten",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bellevue-sanierung-steinmeier-100.html"
+    },
+    {
+      "title": "Gebäudemodernisierungsgesetz: Wie es zur mühsamen Einigung kam",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/eckpunkte-gebaeudemodernisierungsgesetz-einigung-100.html"
+    },
+    {
+      "title": "Ukraine und Syrien: Briefe als Brücken zwischen Kriegsgebieten",
+      "link": "https://www.tagesschau.de/kultur/briefe-aus-kriegsgebieten-100.html"
+    },
+    {
       "title": "Marktbericht: KI-Euphorie treibt DAX voran",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-wall-street-trump-100.html"
     },
@@ -59,26 +79,6 @@
     {
       "title": "Bundesweiter Polizeieinsatz: Durchsuchungen bei Verdächtigen wegen Hassrede",
       "link": "https://www.tagesschau.de/inland/innenpolitik/innere-sicherheit-bka-100.html"
-    },
-    {
-      "title": "Heidelberg Materials: Klimapolitik bremst Aktie",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/dax-heidelberg-materials-klimaplaene-eu-100.html"
-    },
-    {
-      "title": "Forschende sehen \"katastrophale Verwässerung\"",
-      "link": "https://www.tagesschau.de/wissen/klima/reaktionen-gebaeudemodernisierungsgesetz-wissenschaft-100.html"
-    },
-    {
-      "title": "Leipziger Buchmesse veröffentlicht Shortlist in drei Kategorien",
-      "link": "https://www.tagesschau.de/kultur/shortlist-leipziger-buchmesse-100.html"
-    },
-    {
-      "title": "Debatte über Angleichung von Zigarettenpreisen in der EU",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-bekaempfung-zigaretten-100.html"
-    },
-    {
-      "title": "Was das Gebäudemodernisierungsgesetz für Verbraucher bedeutet",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/faq-heizungsgesetz-100.html"
     }
   ]
 }
