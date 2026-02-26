@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "title": "Fahrradtrends 2026: Mehr Licht, mehr Schönheit",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/fahrrad-trends-fruehjahr-100.html"
+    },
+    {
+      "title": "Sind die Atomgespräche in Genf die letzte Chance auf einen Deal?",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-usa-gespraeche-genf-100.html"
+    },
+    {
+      "title": "Bill und Hillary Clinton sagen vor US-Kongress zum Fall Epstein aus",
+      "link": "https://www.tagesschau.de/ausland/epstein-usa-clinton-kongress-100.html"
+    },
+    {
+      "title": "Kubanische Soldaten töten vier Menschen auf US-Schnellboot",
+      "link": "https://www.tagesschau.de/ausland/kuba-usa-schusswechsel-100.html"
+    },
+    {
       "title": "USA verkünden kurz vor Iran-Gesprächen neue Sanktionen",
       "link": "https://www.tagesschau.de/ausland/amerika/usa-sanktionen-usa-100.html"
     },
@@ -63,22 +79,6 @@
     {
       "title": "IT-Dienstleister der Bahn befürchtet Zerschlagung",
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/db-systel-stellenabbau-100.html"
-    },
-    {
-      "title": "Möglicher Trump-Gegenkandidat Newsom stellt Memoiren vor",
-      "link": "https://www.tagesschau.de/ausland/amerika/moeglicher-trump-gegenkanidat-vorstellung-100.html"
-    },
-    {
-      "title": "Merz in China: Xi will Partnerschaft auf \"neues Niveau\" heben",
-      "link": "https://www.tagesschau.de/ausland/asien/merz-xi-besuch-china-100.html"
-    },
-    {
-      "title": "Wahlkampfrede in Überlänge: Fünf Erkenntnisse zur Trump-Ansprache",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-trump-rede-nation-100.html"
-    },
-    {
-      "title": "Rede zur Lage der Nation: Trump bescheinigt sich historische Erfolge",
-      "link": "https://www.tagesschau.de/ausland/amerika/trump-rede-lage-der-nation-102.html"
     }
   ]
 }
