@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "Reiche erwägt Einschnitte bei der privaten Solarförderung",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/reiche-solarfoerderung-100.html"
+    },
+    {
+      "title": "Was die Gerichtsentscheidung zur Einstufung der AfD bedeutet",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/afd-einstufung-verfassungsschutz-106.html"
+    },
+    {
       "title": "Aktuelle Stunde zur AfD-Verwandtenaffäre: Eine Partei in der Defensive",
       "link": "https://www.tagesschau.de/inland/innenpolitik/afd-verwandtenaffaere-aktuelle-stunde-100.html"
     },
@@ -71,14 +79,6 @@
     {
       "title": "Ukraine: Mehrere Verletzte bei neuen schweren Angriffen",
       "link": "https://www.tagesschau.de/ausland/europa/ukraine-angriffe-verletzte-102.html"
-    },
-    {
-      "title": "Marktbericht: Telekom dank T-Mobile im Höhenflug",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/telekom-aktie-des-tages-100.html"
-    },
-    {
-      "title": "Bei Allianz und Münchener Rück läuft es rund",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/versicherungen-alv-und-muvg-100.html"
     }
   ]
 }
