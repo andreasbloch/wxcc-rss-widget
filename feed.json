@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "title": "Ukraine: Mehrere Verletzte bei neuen schweren Angriffen",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-angriffe-verletzte-102.html"
+    },
+    {
+      "title": "Kanzler Merz in China: War das ein Neuanfang?",
+      "link": "https://www.tagesschau.de/ausland/asien/china-merz-reise-100.html"
+    },
+    {
+      "title": "Tuttle bleibt vorerst Intendantin des Filmfestivals Berlinale",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/tricia-tuttle-berlinale-100.html"
+    },
+    {
+      "title": "Marktbericht: Börse Frankfurt geht auf Tauchstation",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-aktien-dax-dow-jones-122.html"
+    },
+    {
+      "title": "Gemüseernte in Deutschland erreicht 2025 Rekordwert",
+      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/gemueseernte-rekord-2025-100.html"
+    },
+    {
       "title": "Kubanische Grenzschützer töten vier Menschen auf US-Schnellboot",
       "link": "https://www.tagesschau.de/ausland/kuba-usa-schusswechsel-100.html"
     },
@@ -19,10 +39,6 @@
     {
       "title": "Bundeskanzler Merz besucht Verbotene Stadt und Tech-Metropole",
       "link": "https://www.tagesschau.de/ausland/asien/merz-reise-china-100.html"
-    },
-    {
-      "title": "Marktbericht: KI-Boom beschäftigt Börsen weltweit",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-aktien-dax-dow-jones-122.html"
     },
     {
       "title": "Karlsruhe prüft Gesetzgebungsverfahren zum Gebäudeenergiegesetz",
@@ -63,22 +79,6 @@
     {
       "title": "Angriff auf Zugbegleiter - 100 Reisende müssen ICE verlassen",
       "link": "https://www.tagesschau.de/inland/gesellschaft/angriff-zugbegleiter-ice-100.html"
-    },
-    {
-      "title": "Wenn KI-Agenten Menschen brauchen",
-      "link": "https://www.tagesschau.de/wissen/technologie/ki-agenten-100.html"
-    },
-    {
-      "title": "Sanierung von Bellevue soll mindestens 601 Millionen kosten",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/bellevue-sanierung-steinmeier-100.html"
-    },
-    {
-      "title": "Gebäudemodernisierungsgesetz: Wie es zur mühsamen Einigung kam",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/eckpunkte-gebaeudemodernisierungsgesetz-einigung-100.html"
-    },
-    {
-      "title": "Ukraine und Syrien: Briefe als Brücken zwischen Kriegsgebieten",
-      "link": "https://www.tagesschau.de/kultur/briefe-aus-kriegsgebieten-100.html"
     }
   ]
 }
