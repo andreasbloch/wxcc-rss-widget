@@ -1,8 +1,20 @@
 {
   "items": [
     {
+      "title": "Equal Pay Day: \"Nicht nur eine Frage des Respekts\"",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/equal-pay-day-prien-100.html"
+    },
+    {
+      "title": "Aufregung über Werbekampagne von Fast-Food-Kette zu Ramadan",
+      "link": "https://www.tagesschau.de/faktenfinder/ramadan-kampagne-mcdonalds-100.html"
+    },
+    {
       "title": "EU-Kommission kündigt vorläufige Anwendung von Mercosur-Abkommen an",
       "link": "https://www.tagesschau.de/ausland/europa/eu-mercosur-abkommen-anwendung-100.html"
+    },
+    {
+      "title": "Bundestag stimmt für Umsetzung der europäischen Asylreform GEAS",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bundestag-beschliesst-asylreform-100.html"
     },
     {
       "title": "Wie Deutschland neue EU-Asylregeln umsetzen will",
@@ -67,18 +79,6 @@
     {
       "title": "Epstein-Akten: Hillary Clinton verteidigt sich im Kreuzverhör",
       "link": "https://www.tagesschau.de/ausland/amerika/epstein-files-clinton-100.html"
-    },
-    {
-      "title": "Iran sieht Fortschritte bei Atomgesprächen mit den USA",
-      "link": "https://www.tagesschau.de/ausland/asien/iran-usa-gespraeche-genf-102.html"
-    },
-    {
-      "title": "Uruguay und Argentinien ratifizieren Mercosur-Handelsabkommen mit EU",
-      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/uruguay-mercosur-100.html"
-    },
-    {
-      "title": "Reiche erwägt Einschnitte bei der privaten Solarförderung",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/reiche-solarfoerderung-100.html"
     }
   ]
 }
