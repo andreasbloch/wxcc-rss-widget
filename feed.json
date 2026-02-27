@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "EU-Kommission kündigt vorläufige Anwendung von Mercosur-Abkommen an",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-mercosur-abkommen-anwendung-100.html"
+    },
+    {
+      "title": "Wie Deutschland neue EU-Asylregeln umsetzen will",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bundestag-geas-asyl-100.html"
+    },
+    {
       "title": "Marktbericht: DAX startet mit leichten Verlusten",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-aktien-100.html"
     },
@@ -49,10 +57,6 @@
       "link": "https://www.tagesschau.de/wirtschaft/warnstreik-nahverkehr-102.html"
     },
     {
-      "title": "Wie Deutschland neue EU-Asylregeln umsetzen will",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/bundestag-geas-asyl-100.html"
-    },
-    {
       "title": "Deutsche Bahn und die Lokführergewerkschaft GDL einigen sich",
       "link": "https://www.tagesschau.de/wirtschaft/gdl-bahn-einigung-100.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Reiche erwägt Einschnitte bei der privaten Solarförderung",
       "link": "https://www.tagesschau.de/inland/innenpolitik/reiche-solarfoerderung-100.html"
-    },
-    {
-      "title": "Was die Gerichtsentscheidung zur Einstufung der AfD bedeutet",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/afd-einstufung-verfassungsschutz-106.html"
     }
   ]
 }
