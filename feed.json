@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Netflix will kein höheres Angebot für Warner Bros abgeben",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/netflix-warner-paramount-uebernahme-100.html"
+    },
+    {
       "title": "Pakistan bombardiert militärische Ziele im Nachbarland Afghanistan",
       "link": "https://www.tagesschau.de/ausland/asien/pakistan-afghanistan-konflikt-100.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Schnelle Züge nach Prag: Tschechiens Bahnoffensive wackelt",
       "link": "https://www.tagesschau.de/wirtschaft/verbraucher/hochgeschwindigkeitszug-prag-100.html"
-    },
-    {
-      "title": "Deutschland schiebt 20 Straftäter nach Afghanistan ab",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/abschiebungen-afghanistan-bundesinnenministerium-100.html"
     }
   ]
 }
