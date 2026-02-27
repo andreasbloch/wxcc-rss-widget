@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "title": "Pakistan bombardiert militärische Ziele im Nachbarland Afghanistan",
+      "link": "https://www.tagesschau.de/ausland/asien/pakistan-afghanistan-konflikt-100.html"
+    },
+    {
+      "title": "Deutsche Bahn und die Lokführergewerkschaft GDL einigen sich",
+      "link": "https://www.tagesschau.de/wirtschaft/gdl-bahn-einigung-100.html"
+    },
+    {
+      "title": "Verhandlungen über Irans Atomprogramm sollen fortgesetzt werden",
+      "link": "https://www.tagesschau.de/ausland/asien/usa-iran-atomgespraeche-102.html"
+    },
+    {
       "title": "Tarifverhandlungen im ÖPNV: Wer von den Warnstreiks betroffen ist",
       "link": "https://www.tagesschau.de/wirtschaft/warnstreik-nahverkehr-102.html"
     },
@@ -67,18 +79,6 @@
     {
       "title": "Deutschland schiebt 20 Straftäter nach Afghanistan ab",
       "link": "https://www.tagesschau.de/inland/innenpolitik/abschiebungen-afghanistan-bundesinnenministerium-100.html"
-    },
-    {
-      "title": "Max Martin - der Hit-Architekt hinter The Weeknd und Taylor Swift",
-      "link": "https://www.tagesschau.de/kultur/max-martin-phantom-musikgeschichte-100.html"
-    },
-    {
-      "title": "Chef des Weltwirtschaftsforum tritt wegen Epstein-Affäre zurück",
-      "link": "https://www.tagesschau.de/ausland/europa/brende-ruecktritt-epstein-100.html"
-    },
-    {
-      "title": "Lufthansa Cityline: Piloten stimmen für Streiks",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/lufthansa-cityline-streik-100.html"
     }
   ]
 }
