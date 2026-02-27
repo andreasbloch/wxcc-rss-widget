@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "title": "Bundesinnenministerium: Weiterhin kein Geld für AfD-nahe Stiftung",
+      "link": "https://www.tagesschau.de/investigativ/ndr-wdr/afd-stiftung-finanzierung-100.html"
+    },
+    {
+      "title": "Marktbericht: DAX-Rekordhoch in Sichtweite",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-aktien-100.html"
+    },
+    {
+      "title": "USA stellen Botschaftspersonal die Ausreise aus Israel frei",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-us-diplomaten-iran-100.html"
+    },
+    {
       "title": "Afghanistanexperte: Konflikt mit Pakistan wird immer wieder ausbrechen",
       "link": "https://www.tagesschau.de/ausland/asien/afghanistan-ruttig-experte-100.html"
     },
@@ -15,10 +27,6 @@
     {
       "title": "Ver.di legt Nahverkehr lahm - und droht mit weiteren Streiks",
       "link": "https://www.tagesschau.de/inland/gesellschaft/nahverkehr-verdi-warnstreiks-100.html"
-    },
-    {
-      "title": "USA stellen Botschaftspersonal die Ausreise aus Israel frei",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-us-diplomaten-iran-100.html"
     },
     {
       "title": "Inflationsrate im Februar auf unter zwei Prozent gefallen",
@@ -65,20 +73,12 @@
       "link": "https://www.tagesschau.de/inland/innenpolitik/bundestag-geas-asyl-100.html"
     },
     {
-      "title": "Marktbericht: DAX startet mit leichten Verlusten",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-aktien-100.html"
-    },
-    {
       "title": "Wie hilfreich sind Vagusnerv-Stimulatoren wirklich?",
       "link": "https://www.tagesschau.de/wissen/forschung/vagusnerv-stimulation-100.html"
     },
     {
       "title": "Zahlen der Bundesbank: 2025 war weniger Falschgeld im Umlauf",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/bundesbank-falschgeld-102.html"
-    },
-    {
-      "title": "Gesetzentwurf zu Solaranlagen: SPD nennt Förderstreichung \"inakzeptabel\"",
-      "link": "https://www.tagesschau.de/inland/solarfoerderung-kuerzung-reaktionen-100.html"
     }
   ]
 }
