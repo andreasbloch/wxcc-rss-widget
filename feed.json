@@ -1,8 +1,16 @@
 {
   "items": [
     {
-      "title": "++ Iran meldet Angriff auf Mädchenschule ++",
+      "title": "++ Iran meldet neue Raketenangriffe auf Israel ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-israel-usa-angriffe-iran-100.html"
+    },
+    {
+      "title": "Bundesweit mehr als eine Million offene Strafverfahren ",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/offene-strafverfahren-rekord-100.html"
+    },
+    {
+      "title": "Analyst über die Angriffe im Nahen Osten: \"Die Gefahr eines Flächenbrandes ist real\"",
+      "link": "https://www.tagesschau.de/ausland/asien/angriffe-naher-osten-100.html"
     },
     {
       "title": "Naher Osten: Wo die USA ihre Soldaten stationiert haben",
@@ -71,14 +79,6 @@
     {
       "title": "Was EU-Gelder für sichere Abtreibungen ändern - und was nicht",
       "link": "https://www.tagesschau.de/ausland/europa/schwangerschaftsabbrueche-abtreibungen-europa-buergerinitiative-eu-kommission-100.html"
-    },
-    {
-      "title": "Bundesinnenministerium: Weiterhin kein Geld für AfD-nahe Stiftung",
-      "link": "https://www.tagesschau.de/investigativ/ndr-wdr/afd-stiftung-finanzierung-100.html"
-    },
-    {
-      "title": "Marktbericht: DAX-Rekordhoch in Sichtweite",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-aktien-100.html"
     }
   ]
 }
