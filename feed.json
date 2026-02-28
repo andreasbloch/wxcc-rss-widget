@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "Wirtschaftsministerin Reiche will Gasförderung in Deutschland ausweiten",
+      "link": "https://www.tagesschau.de/inland/reiche-gas-102.html"
+    },
+    {
+      "title": "30 Jahre Pokémon: Wie Taschenmonster Taschen füllen",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/pokemon-jubilaeum-100.html"
+    },
+    {
       "title": "Verhandlungen mit den USA: Iran verzichtet laut Oman auf Atombomben-Material",
       "link": "https://www.tagesschau.de/ausland/asien/oman-iran-uran-100.html"
     },
@@ -71,14 +79,6 @@
     {
       "title": "Nachwahl in Manchester: Labour verliert Parlamentssitz",
       "link": "https://www.tagesschau.de/ausland/europa/grossbritannien-manchester-nachwahl-ergebnis-100.html"
-    },
-    {
-      "title": "Marktbericht: BASF verschärft Sparkurs und kürzt Investitionen",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/basf-aktie-des-tages-100.html"
-    },
-    {
-      "title": "Warum eine Schneeballschlacht in New York zum Politikum wird",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-new-york-mamdani-schneeballschlacht-100.html"
     }
   ]
 }
