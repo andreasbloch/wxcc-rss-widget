@@ -1,8 +1,12 @@
 {
   "items": [
     {
-      "title": "++ Trump bestätigt \"massiven Einsatz\" ++",
+      "title": "++ Israel meldet iranische Raketenangriffe ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-204.html"
+    },
+    {
+      "title": "Warnstreiks im öffentlichen Nahverkehr werden fortgesetzt",
+      "link": "https://www.tagesschau.de/inland/warnstreiks-verdi-120.html"
     },
     {
       "title": "ESC-Vorentscheid 2026: Nur zwei Finalisten singen auf Deutsch",
@@ -75,10 +79,6 @@
     {
       "title": "Inflationsrate im Februar auf unter zwei Prozent gefallen",
       "link": "https://www.tagesschau.de/wirtschaft/inflation-verbraucher-104.html"
-    },
-    {
-      "title": "Neue Durchsuchungen im Fall von AfD-Politiker Krah",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/afd-krah-durchsuchungen-100.html"
     }
   ]
 }
