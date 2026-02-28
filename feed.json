@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "US-Medien: Auch USA an Angriff gegen Iran beteiligt",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-204.html"
+    },
+    {
       "title": "Wirtschaftsministerin Reiche will Gasförderung in Deutschland ausweiten",
       "link": "https://www.tagesschau.de/inland/reiche-gas-102.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Sofortprogramm soll Komfort im Fernverkehr der Deutschen Bahn erhöhen",
       "link": "https://www.tagesschau.de/wirtschaft/verbraucher/bahn-sofortprogramm-komfort-100.html"
-    },
-    {
-      "title": "Nachwahl in Manchester: Labour verliert Parlamentssitz",
-      "link": "https://www.tagesschau.de/ausland/europa/grossbritannien-manchester-nachwahl-ergebnis-100.html"
     }
   ]
 }
