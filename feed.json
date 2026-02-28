@@ -1,16 +1,20 @@
 {
   "items": [
     {
+      "title": "Iran, Israel und die USA: Seit Jahrzehnten im Konflikt",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-geschichte-chronologie-100.html"
+    },
+    {
+      "title": "Nahost-Liveblog: ++ UN-Sicherheitsrat ruft Dringlichkeitssitzung ein ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-israel-usa-angriffe-iran-100.html"
+    },
+    {
       "title": "Iran greift US-Stützpunkte im Nahen Osten an",
       "link": "https://www.tagesschau.de/ausland/asien/iran-usa-israel-angriffe-100.html"
     },
     {
       "title": "Merz, Macron und Starmer verurteilen Irans Gegenangriffe in Nahost",
       "link": "https://www.tagesschau.de/ausland/asien/angriffe-iran-israel-usa-reaktionen-100.html"
-    },
-    {
-      "title": "Nahost-Liveblog: ++ UN-Sicherheitsrat ruft Dringlichkeitssitzung ein ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-israel-usa-angriffe-iran-100.html"
     },
     {
       "title": "Was über den Angriff auf Iran bekannt ist",
@@ -75,10 +79,6 @@
     {
       "title": "Lage in Iran: Atombehörde fordert Zugang zu nuklearen Anlagen",
       "link": "https://www.tagesschau.de/ausland/europa/oesterreich-iaea-iran-100.html"
-    },
-    {
-      "title": "Epstein-Akten: Ex-Präsident Clinton ist sich keiner Schuld bewusst",
-      "link": "https://www.tagesschau.de/ausland/amerika/epstein-files-clinton-102.html"
     }
   ]
 }
