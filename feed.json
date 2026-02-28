@@ -1,12 +1,20 @@
 {
   "items": [
     {
-      "title": "Iran, Israel und die USA: Seit Jahrzehnten im Konflikt",
-      "link": "https://www.tagesschau.de/ausland/asien/iran-geschichte-chronologie-100.html"
+      "title": "Nach Sitzung des Krisenstabes: Auswärtiges Amt warnt vor Reisen in Nahost-Region",
+      "link": "https://www.tagesschau.de/ausland/asien/reisewarnung-nahost-fluege-100.html"
     },
     {
-      "title": "Nahost-Liveblog: ++ UN-Sicherheitsrat ruft Dringlichkeitssitzung ein ++",
+      "title": "Nahost-Liveblog: ++ Offenbar Einschränkungen in Straße von Hormus ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-israel-usa-angriffe-iran-100.html"
+    },
+    {
+      "title": "Nach Supreme-Court-Urteil: Massive Klagewelle gegen Trump-Zölle",
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/trump-zoelle-rueckzahlung-klagewelle-100.html"
+    },
+    {
+      "title": "Iran, Israel und die USA: Seit Jahrzehnten im Konflikt",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-geschichte-chronologie-100.html"
     },
     {
       "title": "Iran greift US-Stützpunkte im Nahen Osten an",
@@ -71,14 +79,6 @@
     {
       "title": "NASA ändert Pläne für Artemis-Mondprogramm",
       "link": "https://www.tagesschau.de/ausland/amerika/nasa-artemis-mondprogramm-100.html"
-    },
-    {
-      "title": "Deutschland erhöht die Krisenstufe für Israel",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-auswaertiges-amt-erhoeht-krisenstufe-100.html"
-    },
-    {
-      "title": "Lage in Iran: Atombehörde fordert Zugang zu nuklearen Anlagen",
-      "link": "https://www.tagesschau.de/ausland/europa/oesterreich-iaea-iran-100.html"
     }
   ]
 }
