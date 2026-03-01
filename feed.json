@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Erdbeer-Boom in Ägypten - mit Folgen fürs Klima",
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/erdbeeren-aegypten-100.html"
+    },
+    {
       "title": "Eurovision Song Contest 2026: Sarah Engels vertritt Deutschland",
       "link": "https://www.tagesschau.de/kultur/engels-esc-100.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "30 Jahre Ende der Belagerung von Sarajevo",
       "link": "https://www.tagesschau.de/ausland/europa/sarajevo-30-jahre-nach-ende-belagerung-100.html"
-    },
-    {
-      "title": "Welches Thema den Wahlkampf in Baden-Württemberg dominiert",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/baden-wuerttemberg-landtagswahl-wirtschaft-100.html"
     }
   ]
 }
