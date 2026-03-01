@@ -1,7 +1,15 @@
 {
   "items": [
     {
-      "title": "Nahost-Liveblog: ++ Mehrere Tote bei Raketeneinschlag in Israel ++",
+      "title": "Rohstoffe und Sicherheit: Trumps neues Interesse an Afrika",
+      "link": "https://www.tagesschau.de/ausland/afrika/usa-afrika-rohstoffe-100.html"
+    },
+    {
+      "title": "Deutsches Start-up profitiert vom Rüstungsboom",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/germandrones-100.html"
+    },
+    {
+      "title": "Nahost-Liveblog: ++ Ahmadinedschad stirbt offenbar bei Luftschlag ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-israel-usa-angriffe-iran-102.html"
     },
     {
@@ -71,14 +79,6 @@
     {
       "title": "Angriffe auf Iran: Netanjahu sieht Hinweise auf Tod von Chamenei",
       "link": "https://www.tagesschau.de/ausland/iran-angriffe-chamenei-100.html"
-    },
-    {
-      "title": "Nach Sitzung des Krisenstabes: Auswärtiges Amt warnt vor Reisen in Nahost-Region",
-      "link": "https://www.tagesschau.de/ausland/asien/reisewarnung-nahost-fluege-100.html"
-    },
-    {
-      "title": "Angriffe auf Iran: Gewagte Wette auf Regimewechsel",
-      "link": "https://www.tagesschau.de/ausland/nahost-iran-angriffe-usa-israel-100.html"
     }
   ]
 }
