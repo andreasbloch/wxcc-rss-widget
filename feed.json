@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Nach Angriffen von Iran: Tausende Reisende sitzen in Golfregion fest",
+      "link": "https://www.tagesschau.de/ausland/asien/angriffe-iran-golfstaaten-100.html"
+    },
+    {
       "title": "Pflegeversicherung 2025 leicht im Plus - Defizit knapp abgewendet",
       "link": "https://www.tagesschau.de/inland/innenpolitik/pflegeversicherung-spitzenverband-warnt-100.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Iran greift US-Stützpunkte im Nahen Osten an",
       "link": "https://www.tagesschau.de/ausland/asien/iran-usa-israel-angriffe-100.html"
-    },
-    {
-      "title": "Merz, Macron und Starmer verurteilen Irans Gegenangriffe in Nahost",
-      "link": "https://www.tagesschau.de/ausland/asien/angriffe-iran-israel-usa-reaktionen-100.html"
     }
   ]
 }
