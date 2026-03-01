@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "Nahost-Liveblog: ++ Tankerstau vor der Straße von Hormus ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-israel-usa-angriffe-iran-102.html"
+    },
+    {
+      "title": "Nach Chameneis Tod - Wie geht es in Iran nun weiter?",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-fragen-antworten-102.html"
+    },
+    {
       "title": "Nach Angriffen von Iran: Tausende Reisende sitzen in Golfregion fest",
       "link": "https://www.tagesschau.de/ausland/asien/angriffe-iran-golfstaaten-100.html"
     },
@@ -71,14 +79,6 @@
     {
       "title": "Nach Supreme-Court-Urteil: Massive Klagewelle gegen Trump-Zölle",
       "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/trump-zoelle-rueckzahlung-klagewelle-100.html"
-    },
-    {
-      "title": "Iran, Israel und die USA: Seit Jahrzehnten im Konflikt",
-      "link": "https://www.tagesschau.de/ausland/asien/iran-geschichte-chronologie-100.html"
-    },
-    {
-      "title": "Iran greift US-Stützpunkte im Nahen Osten an",
-      "link": "https://www.tagesschau.de/ausland/asien/iran-usa-israel-angriffe-100.html"
     }
   ]
 }
