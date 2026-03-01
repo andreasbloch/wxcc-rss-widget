@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "title": "Wie Vandalismus den Bahnverkehr stört",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/vandalismus-bahn-100.html"
+    },
+    {
+      "title": "Extremwetter: Schnee satt in Spanien",
+      "link": "https://www.tagesschau.de/ausland/europa/spanien-schnee-duerre-klimawandel-100.html"
+    },
+    {
+      "title": "Irans Staatsmedien bestätigen Tod des obersten Führers Chamenei",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-chamenei-tot-102.html"
+    },
+    {
       "title": "Nahost-Liveblog: ++ Pahlavi ruft Sicherheitskräfte zum Umsturz auf ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-israel-usa-angriffe-iran-100.html"
     },
@@ -67,18 +79,6 @@
     {
       "title": "Angriffe auf Iran: \"Skeptisch, ob das zum Regimesturz führt\"",
       "link": "https://www.tagesschau.de/ausland/asien/iran-israel-usa-angriffe-100.html"
-    },
-    {
-      "title": "Warnstreiks im öffentlichen Nahverkehr werden fortgesetzt",
-      "link": "https://www.tagesschau.de/inland/warnstreiks-verdi-120.html"
-    },
-    {
-      "title": "ESC-Vorentscheid 2026: Nur zwei Finalisten singen auf Deutsch",
-      "link": "https://www.tagesschau.de/kultur/deutsche-sprache-beim-esc-vorentscheid-100.html"
-    },
-    {
-      "title": "Wirtschaftsministerin Reiche will Gasförderung in Deutschland ausweiten",
-      "link": "https://www.tagesschau.de/inland/reiche-gas-102.html"
     }
   ]
 }
