@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Irans getöteter oberster Führer: Wer war Ajatollah Ali Chamenei?",
+      "link": "https://www.tagesschau.de/ausland/asien/chamenei-iran-102.html"
+    },
+    {
       "title": "Erdbeer-Boom in Ägypten - mit Folgen fürs Klima",
       "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/erdbeeren-aegypten-100.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Naher Osten: Wo die USA ihre Soldaten stationiert haben",
       "link": "https://www.tagesschau.de/ausland/asien/usa-stuetzpunkte-naher-osten-100.html"
-    },
-    {
-      "title": "30 Jahre Ende der Belagerung von Sarajevo",
-      "link": "https://www.tagesschau.de/ausland/europa/sarajevo-30-jahre-nach-ende-belagerung-100.html"
     }
   ]
 }
