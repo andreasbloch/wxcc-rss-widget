@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Klimafreundlicher durch Änderung der Flugroute?",
+      "link": "https://www.tagesschau.de/wissen/klima/klimafreundliche-flugrouten-100.html"
+    },
+    {
       "title": "Irans getöteter oberster Führer: Wer war Ajatollah Ali Chamenei?",
       "link": "https://www.tagesschau.de/ausland/asien/chamenei-iran-102.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Analyst über die Angriffe im Nahen Osten: \"Die Gefahr eines Flächenbrandes ist real\"",
       "link": "https://www.tagesschau.de/ausland/asien/angriffe-naher-osten-100.html"
-    },
-    {
-      "title": "Naher Osten: Wo die USA ihre Soldaten stationiert haben",
-      "link": "https://www.tagesschau.de/ausland/asien/usa-stuetzpunkte-naher-osten-100.html"
     }
   ]
 }
