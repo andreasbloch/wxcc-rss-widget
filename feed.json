@@ -1,8 +1,16 @@
 {
   "items": [
     {
+      "title": "Experte zu Angriffen auf Iran: \"Kein Regimewechsel sondern ein Führungswechsel\"",
+      "link": "https://www.tagesschau.de/nahost-angriffe-iran-israel-usa-100.html"
+    },
+    {
       "title": "Nahost-Liveblog: ++ Merz will Agenda für Zukunft von Iran ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-israel-usa-angriffe-iran-102.html"
+    },
+    {
+      "title": "Nach Angriffen auf Schiffe in Straße von Hormus: Anstieg von Ölpreis erwartet",
+      "link": "https://www.tagesschau.de/wirtschaft/strasse-von-hormus-angriff-oelpreis-100.html"
     },
     {
       "title": "Nahost-Konflikt: Tausende Flüge ausgesetzt, Kreuzfahrtschiffe gestoppt",
@@ -71,14 +79,6 @@
     {
       "title": "Irans Staatsmedien bestätigen Tod des obersten Führers Chamenei",
       "link": "https://www.tagesschau.de/ausland/asien/iran-chamenei-tot-102.html"
-    },
-    {
-      "title": "Nahost-Liveblog: ++ Pahlavi ruft Sicherheitskräfte zum Umsturz auf ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-israel-usa-angriffe-iran-100.html"
-    },
-    {
-      "title": "Was über den Angriff auf Iran bekannt ist",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-usa-iran-angriff-100.html"
     }
   ]
 }
